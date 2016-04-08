@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Text_mining
+http://www.cos.ufrj.br/~jano/LinkedDocuments/_papers/aula13/04-IHW-Textmining.pdf
