@@ -1,0 +1,5 @@
+criterii pentru clustering - oferire clustere catre predictions team
+- zona geografica, taguri comune, pret, caracterstici, suprafata
+
+organizare clustere -> grupuri de imobile cu anumite caracterstici comune (dupa un filtru)
+pe aceste clustere se vor face predictiile
