@@ -161,7 +161,12 @@
             "An constructie:": "1990 - 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1195,7 +1200,12 @@
         }, 
         "dotari": {
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2584,7 +2594,12 @@
         }, 
         "dotari": {
             "Centrala termica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2886,7 +2901,12 @@
             "An constructie:": "1977 - 1990", 
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3335,7 +3355,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -4223,7 +4248,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -4336,7 +4366,12 @@
             "Centrala termica:": "Da", 
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -4603,7 +4638,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -4629,7 +4669,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -4781,7 +4826,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6081,7 +6131,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6107,7 +6162,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6133,7 +6193,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6159,7 +6224,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6185,7 +6255,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6241,7 +6316,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6672,7 +6752,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6697,7 +6782,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -6967,7 +7057,12 @@
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -7070,7 +7165,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -7094,7 +7194,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -7144,7 +7249,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -9690,7 +9800,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -9715,7 +9830,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -9977,7 +10097,12 @@
             "Aer conditionat:": "Da", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -10608,7 +10733,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -10661,7 +10791,12 @@
             "Aer conditionat:": "Da", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -10867,7 +11002,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -11529,7 +11669,12 @@
             "Centrala termica:": "Da", 
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -11552,7 +11697,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -11701,7 +11851,12 @@
         "dotari": {
             "An constructie:": "inainte de 1977", 
             "Centrala termica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -12035,7 +12190,12 @@
             "An constructie:": "inainte de 1977", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -12057,7 +12217,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -12241,7 +12406,12 @@
         "dotari": {
             "An constructie:": "inainte de 1977", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -12295,7 +12465,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -12351,7 +12526,12 @@
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -13974,7 +14154,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -14279,7 +14464,12 @@
             "Zona:": "Nicolina / Frumoasa / CUG Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -14818,7 +15008,12 @@
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -16306,7 +16501,12 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -16980,7 +17180,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -17054,7 +17259,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -17507,7 +17717,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -17561,7 +17776,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -17584,7 +17804,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -17607,7 +17832,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -18911,7 +19141,12 @@
             "Centrala termica:": "Da", 
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -18997,7 +19232,12 @@
             "An constructie:": "dupa 2000", 
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -19755,7 +19995,12 @@
         }, 
         "dotari": {
             "Centrala termica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -21038,7 +21283,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -21427,7 +21677,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 

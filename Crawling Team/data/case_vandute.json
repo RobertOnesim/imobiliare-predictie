@@ -700,7 +700,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -759,7 +764,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 

@@ -82,7 +82,11 @@
         "dotari": {
             "An constructie:": "1977 - 1990", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -153,7 +157,11 @@
             "An constructie:": "1977 - 1990", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 

@@ -77,7 +77,11 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -128,7 +132,11 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -357,7 +365,11 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -763,7 +775,11 @@
             "Zona:": "Bucium Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -812,7 +828,12 @@
             "An constructie:": "dupa 2000", 
             "Geam la baie:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -832,7 +853,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -993,7 +1019,12 @@
             "Zona:": "Bucium Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1038,7 +1069,9 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1319,7 +1352,12 @@
         "dotari": {
             "An constructie:": "inainte de 1977", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1449,7 +1487,12 @@
         }, 
         "dotari": {
             "An constructie:": "inainte de 1977", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1562,7 +1605,12 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1759,7 +1807,12 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1896,7 +1949,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1940,7 +1998,12 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1964,7 +2027,12 @@
         "dotari": {
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -1986,7 +2054,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2137,7 +2210,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2233,7 +2311,11 @@
             "Geam termopan:": "Da", 
             "Tip imobil:": "Nou", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2278,7 +2360,12 @@
             "Zona:": "Lunca Cetatuii Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -2943,7 +3030,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3046,7 +3138,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3066,7 +3163,11 @@
             "Zona:": "Paun Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3087,7 +3188,12 @@
             "Zona:": "Podu Ros Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3212,7 +3318,12 @@
             "Zona:": "Tatarasi / Oancea / Metalurgie Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3286,7 +3397,12 @@
             "Zona:": "Tatarasi / Oancea / Metalurgie Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3304,7 +3420,12 @@
             "Zona:": "Tudor Vladimirescu Iasi"
         }, 
         "dotari": {
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3468,7 +3589,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3490,7 +3616,12 @@
         }, 
         "dotari": {
             "An constructie:": "dupa 2000", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
@@ -3601,7 +3732,12 @@
             "Centrala termica:": "Da", 
             "Geam termopan:": "Da", 
             "Usa metalica:": "Da", 
-            "Utilitati:": []
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
         }, 
         "pret": {
             "moneda": "EUR", 
