@@ -105,7 +105,7 @@ public class JsonArff {
     }
 
     private List<String> fillUntilPosition(List<String> objectData, int position) {
-        for (int i = objectData.size(); i < position; i++) {
+        for (int i = objectData.size(); i <= position; i++) {
             if (attributeType.get(i) == ArffTypes.NUMERIC) {
                 objectData.add("0");
             } else { //empty string
@@ -124,7 +124,7 @@ public class JsonArff {
                         throw new UnconsistentFormatException("Arrays can only be arrays of strings");
                     Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject + (nameOfObject == "" ? "" : " ") + jsonNode.asText());
                     objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                    objectData.add("1");
+                    objectData.set(positionAttribute.getKey(),"1");
                 }
                 break;
             case OBJECT:
@@ -137,13 +137,13 @@ public class JsonArff {
             case STRING: {
                 Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.STRING, nameOfObject);
                 objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                objectData.add("\"" + node.asText() + "\"");
+                objectData.set(positionAttribute.getKey(),"\"" + node.asText() + "\"");
                 break;
             }
             case NUMBER: {
                 Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject);
                 objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                objectData.add(node.asText());
+                objectData.set(positionAttribute.getKey(),node.asText());
                 break;
             }
 
