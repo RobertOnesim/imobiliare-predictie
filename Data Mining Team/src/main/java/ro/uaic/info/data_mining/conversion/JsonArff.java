@@ -41,7 +41,7 @@ public class JsonArff {
         attributes.put("URL", new Pair<>(0, ArffTypes.STRING));
 
         ObjectMapper mapper = new ObjectMapper();
-        
+
         JsonNode rootNode = mapper.readTree(this.file);
         Iterator<String> iteratorURLObject = rootNode.fieldNames();
         while (iteratorURLObject.hasNext()) {
@@ -72,7 +72,7 @@ public class JsonArff {
         PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
         writer.println("@RELATION random");
         for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : list) {
-            String attributeLine = "@ATTRIBUTE " + entry.getKey() + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
+            String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
             writer.println(attributeLine);
         }
         writer.println("@DATA");

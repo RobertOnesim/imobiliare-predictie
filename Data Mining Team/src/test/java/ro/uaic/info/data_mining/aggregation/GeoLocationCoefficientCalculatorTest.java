@@ -38,7 +38,7 @@ public class GeoLocationCoefficientCalculatorTest {
 
     @Test
     public void testGeoLocation_CalculatingZoneCoefficient_BasedOnPrice() throws Exception {
-        ZoneCoefficientCalculator zoneCoefficientCalculator = new GeoLocationCoefficientCalculator(locations);
+        ZoneCoefficientCalculator zoneCoefficientCalculator = new GeoLocationCoefficientCalculator(locations, Construction.Parameter.Price);
 
         Location myLocation = Location.fromString("Copou Iasi");
         Location myArea = Location.fromString("Iasi");

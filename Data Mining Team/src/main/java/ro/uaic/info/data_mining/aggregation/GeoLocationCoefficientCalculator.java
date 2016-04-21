@@ -1,14 +1,10 @@
 package ro.uaic.info.data_mining.aggregation;
 
-import com.google.common.collect.Multimap;
 import com.sun.istack.internal.NotNull;
-import ro.uaic.info.data_mining.aggregation.exceptions.LocationGeocodeException;
 import ro.uaic.info.data_mining.aggregation.utils.Location;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
-import java.util.Map;
 
 /**
  * TODO
@@ -16,7 +12,7 @@ import java.util.Map;
 public class GeoLocationCoefficientCalculator implements ZoneCoefficientCalculator{
     private List<Location> locations;
 
-    public GeoLocationCoefficientCalculator(@NotNull List<Location> locations) {
+    public GeoLocationCoefficientCalculator(@NotNull List<Location> locations, Construction.Parameter price) {
         this.locations = new ArrayList<>(locations);
     }
 
