@@ -1,7 +1,6 @@
 package ro.uaic.info.data_mining.aggregation;
 
-import com.google.common.collect.Multimap;
-
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -9,8 +8,8 @@ import java.util.Map;
  */
 public class Constructions {
 
-    public static Multimap<String, Construction> aggregateViaZone() {
-        //TODO get buildings by zone
+    public static Map<String, List<Construction>> aggregateViaZone() {
+        //TODO get buildings by zone from database or from some kind of persistent storage
         throw new UnsupportedOperationException("Unimplemented.");
     }
 }

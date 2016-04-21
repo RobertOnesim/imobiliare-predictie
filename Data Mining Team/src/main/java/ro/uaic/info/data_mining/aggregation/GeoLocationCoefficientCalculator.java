@@ -10,10 +10,12 @@ import java.util.List;
  * TODO
  */
 public class GeoLocationCoefficientCalculator implements ZoneCoefficientCalculator{
-    private List<Location> locations;
+    private List<Construction> constructions;
+    private Construction.Parameter parameterOfInterest;
 
-    public GeoLocationCoefficientCalculator(@NotNull List<Location> locations, Construction.Parameter price) {
-        this.locations = new ArrayList<>(locations);
+    public GeoLocationCoefficientCalculator(@NotNull List<Construction> constructions, Construction.Parameter parameter) {
+        this.constructions = new ArrayList<>(this.constructions);
+        this.parameterOfInterest = parameter;
     }
 
     @Override
