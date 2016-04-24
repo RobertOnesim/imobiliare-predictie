@@ -1,17 +1,18 @@
 package ro.uaic.info.data_mining.conversion; /**
- * Created by Alex on 4/20/2016.
+ * Created by Alexandru Ciubotariu on 4/20/2016.
  */
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.JsonNodeType;
-import com.fasterxml.jackson.core.ObjectCodec;
 import javafx.util.Pair;
 import ro.uaic.info.data_mining.conversion.exceptions.UnconsistentFormatException;
 
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.text.NumberFormat;
+import java.text.ParseException;
 import java.util.*;
 
 
@@ -19,17 +20,18 @@ public class JsonArff {
     private File file;
     private List<List<String>> objectsData = new ArrayList<>();
     private Map<String, Pair<Integer, ArffTypes>> attributes = new HashMap<>();
-    private Map<Integer, ArffTypes> attributeType = new HashMap<>();
-    private int numberOfAttributes;
 
-    JsonArff(File jsonFile) {
-        this.file = jsonFile;
+    ;
+    private int numberOfAttributes;
+    private Map<Integer, ArffTypes> attributeType = new HashMap<>();
+    JsonArff(File Jsonfile) {
+        this.file = Jsonfile;
     }
 
     public static void main(String[] argv) {
-        JsonArff jsonArff = new JsonArff(new File("C:\\Users\\Ovidiu\\Documents\\Facultate\\imobiliare\\imobiliare-predictie\\Data Mining Team\\src\\main\\resources\\conversions\\apartamente_vandute.json"));
+        JsonArff jsonArff = new JsonArff(new File("case_vandute.json"));
         try {
-            jsonArff.writeArff(new File("C:\\Users\\Ovidiu\\Documents\\Facultate\\imobiliare\\imobiliare-predictie\\Data Mining Team\\src\\main\\resources\\conversions\\apartamente_vandute.arff"));
+            jsonArff.writeArff(new File("case_vandute.arff"));
         } catch (IOException e) {
             e.printStackTrace();
         } catch (UnconsistentFormatException e) {
@@ -39,54 +41,67 @@ public class JsonArff {
 
     public void writeArff(File outputFile) throws IOException, UnconsistentFormatException {
         numberOfAttributes = 1;
-        attributes.put("URL", new Pair<>(0, ArffTypes.STRING));
+        attributes.put("URL", new Pair<Integer, ArffTypes>(0, ArffTypes.STRING));
+
 
         ObjectMapper mapper = new ObjectMapper();
-
-        JsonNode rootNode = mapper.readTree(this.file);
-        Iterator<String> iteratorURLObject = rootNode.fieldNames();
-        while (iteratorURLObject.hasNext()) {
-            String URLPath = iteratorURLObject.next();
-            JsonNode imobilObject = rootNode.get(URLPath);
-            List<String> objectData = new ArrayList<>();
-            objectData.add(URLPath);
-            try {
-                objectData = parseObject(imobilObject, objectData, "");
-                objectsData.add(objectData);
-            } catch (UnconsistentFormatException e) {
-                throw e;
+        try {
+            JsonNode rootNode = mapper.readTree(this.file);
+            Iterator<String> iteratorURLObject = rootNode.fieldNames();
+            while (iteratorURLObject.hasNext()) {
+                String URLPath = iteratorURLObject.next();
+                JsonNode imobilObject = rootNode.get(URLPath);
+                List<String> objectData = new ArrayList<>();
+                objectData.add(URLPath);
+                try {
+                    objectData = parseObject(imobilObject, objectData, "");
+                    objectsData.add(objectData);
+                } catch (UnconsistentFormatException e) {
+                    throw e;
+                }
             }
-        }
-        for (List<String> strings : objectsData) {
-            fillUntilPosition(strings, this.numberOfAttributes);
+            for (List<String> strings : objectsData) {
+                fillUntilPosition(strings, this.numberOfAttributes - 1);
 
-        }
-        Set<Map.Entry<String, Pair<Integer, ArffTypes>>> set = attributes.entrySet();
-        List<Map.Entry<String, Pair<Integer, ArffTypes>>> list = new ArrayList<>(set);
-        Collections.sort(list, new Comparator<Map.Entry<String, Pair<Integer, ArffTypes>>>() {
-            @Override
-            public int compare(Map.Entry<String, Pair<Integer, ArffTypes>> o1, Map.Entry<String, Pair<Integer, ArffTypes>> o2) {
-                return -(o2.getValue().getKey()).compareTo(o1.getValue().getKey());
             }
+            Set<Map.Entry<String, Pair<Integer, ArffTypes>>> set = attributes.entrySet();
+            List<Map.Entry<String, Pair<Integer, ArffTypes>>> list = new ArrayList<Map.Entry<String, Pair<Integer, ArffTypes>>>(set);
+            Collections.sort(list, new Comparator<Map.Entry<String, Pair<Integer, ArffTypes>>>() {
+                @Override
+                public int compare(Map.Entry<String, Pair<Integer, ArffTypes>> o1, Map.Entry<String, Pair<Integer, ArffTypes>> o2) {
+                    return -(o2.getValue().getKey()).compareTo(o1.getValue().getKey());
+                }
 
-        });
-        PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
-        writer.println("@RELATION random");
-        for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : list) {
-            String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
-            writer.println(attributeLine);
-        }
-        writer.println("@DATA");
-        for (int i = 0; i < objectsData.size(); i++) {
-            StringBuilder stringBuilder = new StringBuilder();
-            for (int j = 0; j < objectsData.get(i).size(); j++) {
-                stringBuilder.append(objectsData.get(i).get(j)).append(" ");
+            });
+            for (int i = 0; i < objectsData.size(); i++) {
+                System.out.println(objectsData.get(i).get(4));
             }
-            String dataLine = stringBuilder.toString();
-            writer.println(dataLine);
-        }
-        writer.close();
+            PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
+            writer.println("@RELATION random");
+            for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : list) {
+                if (entry.getValue().getValue() != ArffTypes.NUMERIC)
+                    continue;
+                ;
+                String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
+                writer.println(attributeLine);
+            }
+            writer.println("@DATA");
+            for (int i = 0; i < objectsData.size(); i++) {
+                StringBuilder stringBuilder = new StringBuilder();
+                for (int j = 0; j < objectsData.get(i).size(); j++) {
+                    if (attributeType.get(j) != ArffTypes.NUMERIC)
+                        continue;
+                    stringBuilder.append(objectsData.get(i).get(j) + " ");
+                }
+                String dataLine = stringBuilder.toString();
+                writer.println(dataLine);
+            }
+            writer.close();
 
+
+        } catch (IOException e) {
+            throw e;
+        }
 
     }
 
@@ -95,7 +110,19 @@ public class JsonArff {
 
             Pair<Integer, ArffTypes> attributeValue = attributes.get(attribute);
             if (attributeValue.getValue() != type)
-                throw new UnconsistentFormatException("Unconsistent types");
+                if (type == ArffTypes.NUMERIC) {// transform from Numeric to string{
+                    attributes.put(attribute, new Pair<Integer, ArffTypes>(attributeValue.getKey(), ArffTypes.STRING));
+                    attributeType.put(attributeValue.getKey(), ArffTypes.STRING);
+                    for (int i = 0; i < this.objectsData.size(); i++) {
+                        if (attributeValue.getKey() < objectsData.get(i).size()) {
+                            String strToString = "\"" + objectsData.get(i).get(attributeValue.getKey()) + "\"";
+                            objectsData.get(i).set(attributeValue.getKey(), strToString);
+                        }
+                    }
+                } else {
+                    attributes.put(attribute, new Pair<Integer, ArffTypes>(attributeValue.getKey(), ArffTypes.STRING));
+                    attributeType.put(attributeValue.getKey(), ArffTypes.STRING);
+                }
             return attributeValue;
 
         }
@@ -125,7 +152,7 @@ public class JsonArff {
                         throw new UnconsistentFormatException("Arrays can only be arrays of strings");
                     Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject + (nameOfObject == "" ? "" : " ") + jsonNode.asText());
                     objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                    objectData.set(positionAttribute.getKey(),"1");
+                    objectData.set(positionAttribute.getKey(), "1");
                 }
                 break;
             case OBJECT:
@@ -136,15 +163,39 @@ public class JsonArff {
                 }
                 break;
             case STRING: {
-                Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.STRING, nameOfObject);
-                objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                objectData.set(positionAttribute.getKey(),"\"" + node.asText() + "\"");
+
+                ArffTypes typeOfString;
+                String toAdd;
+                if (node.asText().compareToIgnoreCase("Da") == 0 || node.asText().compareToIgnoreCase("Nu") == 0) {
+                    typeOfString = ArffTypes.NUMERIC;
+                    if (node.asText().compareToIgnoreCase("Da") == 0) {
+                        toAdd = "1";
+                    } else
+                        toAdd = "0";
+                    Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject);
+                    objectData = fillUntilPosition(objectData, positionAttribute.getKey());
+                    objectData.set(positionAttribute.getKey(), toAdd);
+                } else {
+
+                    try {
+                        Number number = NumberFormat.getNumberInstance(Locale.forLanguageTag("ro")).parse(node.asText());
+                        typeOfString = ArffTypes.NUMERIC;
+                        Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject);
+                        objectData = fillUntilPosition(objectData, positionAttribute.getKey());
+                        objectData.set(positionAttribute.getKey(), number.toString());
+                    } catch (ParseException e) {
+                        Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.STRING, nameOfObject);
+                        objectData = fillUntilPosition(objectData, positionAttribute.getKey());
+                        objectData.set(positionAttribute.getKey(), "\"" + node.asText() + "\"");
+                        objectData.set(positionAttribute.getKey(), "\"" + node.asText() + "\"");
+                    }
+                }
                 break;
             }
             case NUMBER: {
                 Pair<Integer, ArffTypes> positionAttribute = getAttributePosition(ArffTypes.NUMERIC, nameOfObject);
                 objectData = fillUntilPosition(objectData, positionAttribute.getKey());
-                objectData.set(positionAttribute.getKey(),node.asText());
+                objectData.set(positionAttribute.getKey(), node.asText());
                 break;
             }
 
@@ -155,8 +206,5 @@ public class JsonArff {
         return objectData;
     }
 
-    enum ArffTypes {
-        NUMERIC,
-        STRING
-    }
+    enum ArffTypes {NUMERIC, STRING}
 }
