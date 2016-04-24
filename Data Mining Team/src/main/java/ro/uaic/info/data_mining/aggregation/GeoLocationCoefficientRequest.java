@@ -13,7 +13,6 @@ import java.util.List;
 
 public class GeoLocationCoefficientRequest {
     private Location location;
-    private Location area;
     private Radius radius;
 
     private List<Construction.Parameter> parameters;
@@ -24,15 +23,6 @@ public class GeoLocationCoefficientRequest {
         }
 
         this.location = location;
-        return this;
-    }
-
-    public GeoLocationCoefficientRequest withArea(@NotNull Location area) {
-        if (this.area != null) {
-            throw new UnsupportedOperationException("GeoLocationCoefficientRequest is immutable.");
-        }
-
-        this.area = area;
         return this;
     }
 
@@ -61,10 +51,6 @@ public class GeoLocationCoefficientRequest {
 
     public Location getLocation() {
         return location;
-    }
-
-    public Location getArea() {
-        return area;
     }
 
     public Radius getRadius() {

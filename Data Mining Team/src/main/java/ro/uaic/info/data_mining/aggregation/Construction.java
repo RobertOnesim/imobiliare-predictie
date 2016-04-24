@@ -19,6 +19,7 @@ public class Construction {
      * Please use the following associative table to figure what to cast the return type to:
      * <ul>
      *     <li>{@link Parameter#Price} - {@link Double}</li>
+     *     <li>{@link Parameter#Zone} - {@link String}</li>
      * </ul>
      * @param parameter
      * @return

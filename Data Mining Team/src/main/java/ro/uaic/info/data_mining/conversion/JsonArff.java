@@ -5,6 +5,7 @@ package ro.uaic.info.data_mining.conversion; /**
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.JsonNodeType;
+import com.fasterxml.jackson.core.ObjectCodec;
 import javafx.util.Pair;
 import ro.uaic.info.data_mining.conversion.exceptions.UnconsistentFormatException;
 

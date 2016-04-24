@@ -17,4 +17,12 @@ public class Radius {
         this.amount = amount;
         this.unit = unit;
     }
+
+    public int getAmount() {
+        return amount;
+    }
+
+    public DistanceUnit getUnit() {
+        return unit;
+    }
 }
