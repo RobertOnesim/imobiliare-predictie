@@ -3,7 +3,9 @@ package ro.uaic.info.data_mining.aggregation.utils;
 import java.util.Objects;
 
 /**
- * TODO
+ * This convenience class wraps 2D coordinates on the Earth's
+ * surface in two fields, latitude and longitude and provides
+ * only getters, in order to be <b>immutable</b>.
  */
 public class Coordinates {
     private double latitude;

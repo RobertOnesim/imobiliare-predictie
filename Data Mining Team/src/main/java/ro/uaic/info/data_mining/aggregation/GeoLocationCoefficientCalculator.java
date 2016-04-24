@@ -11,9 +11,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO
+ * Class used to calculate geo-location coefficient. The geo-location
+ * coefficient can be described as taking the average of the sum of the values for
+ * a supplied parameter for all the buildings in a certain location and dividing
+ * that by the average of the sum of the values for a supplied parameter for all
+ * the locations supplied to this object's constructor.
+ *
  */
 public class GeoLocationCoefficientCalculator {
+
     private List<ConstructionLocationDecorator> constructions;
     private Construction.Parameter parameterOfInterest;
 

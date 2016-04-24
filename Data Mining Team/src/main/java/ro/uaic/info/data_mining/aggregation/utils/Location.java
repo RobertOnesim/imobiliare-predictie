@@ -9,7 +9,9 @@ import ro.uaic.info.data_mining.aggregation.exceptions.LocationGeocodeException;
 import java.util.Objects;
 
 /**
- * TODO
+ * This class is used to build and store, based on a real (string)
+ * address, the coordinates on the Earth's surface corresponding to that
+ * address, obtained via a geo-location API.
  */
 public class Location {
     private Coordinates coordinates;
@@ -18,6 +20,17 @@ public class Location {
         this.coordinates = coordinates;
     }
 
+    /**
+     * Static factory method used to build a {@link Location} via it's corresponding,
+     * plain-text given address
+     *
+     * @param locationString The address of the location for which to find the corresponding {@link Coordinates}
+     *
+     * @return The {@link Location} corresponding to the given, plain-text, address, by applying geo-location algorithms
+     * via some geo-location API.
+     *
+     * @throws LocationGeocodeException In case an error occurs while trying to geo-locate the given locationString
+     */
     public static Location fromString(String locationString) throws LocationGeocodeException {
         GeocodingApiRequest geocodeRequest = GeocodingApi.geocode(GeoLocationContext.getContext(), locationString);
         GeocodingResult[] geocodingResults;

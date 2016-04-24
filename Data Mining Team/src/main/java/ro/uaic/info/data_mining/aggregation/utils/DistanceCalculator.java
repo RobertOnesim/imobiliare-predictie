@@ -1,9 +1,8 @@
 package ro.uaic.info.data_mining.aggregation.utils;
 
-import javax.measure.converter.UnitConverter;
-
 /**
- *
+ * This class is used as a static container for methods that calculate
+ * various distances between two points on the Earth's surface.
  */
 public class DistanceCalculator {
 

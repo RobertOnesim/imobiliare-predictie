@@ -3,7 +3,7 @@ package ro.uaic.info.data_mining.aggregation.utils;
 import ro.uaic.info.data_mining.aggregation.exceptions.InvalidRadiusException;
 
 /**
- * TODO
+ * Class used to encapsulate a distance over the Earth's surface.
  */
 public class Radius {
 

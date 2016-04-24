@@ -1,7 +1,7 @@
 package ro.uaic.info.data_mining.aggregation;
 
 /**
- * TODO
+ * A construction represents a building or parcel from the agency's database.
  */
 public class Construction {
     private Double price;

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO
+ * The request used by {@link GeoLocationCoefficientCalculator}
  */
 
 public class GeoLocationCoefficientRequest {

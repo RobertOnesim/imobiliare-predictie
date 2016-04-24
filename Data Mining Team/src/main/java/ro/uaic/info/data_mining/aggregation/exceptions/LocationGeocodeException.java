@@ -1,7 +1,8 @@
 package ro.uaic.info.data_mining.aggregation.exceptions;
 
 /**
- * TODO
+ * Exception used to indicate that an error occurred when trying to
+ * geo-locate a place via some geo-location API.
  */
 public class LocationGeocodeException extends Exception {
     public static final String GEOCODE_ERROR = "Geocoding error while fetching data.";
