@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<statements>
+    <statement category="priceAndZone">
+        <query>SELECT adresa,pret,moneda FROM Proprietati GROUP BY moneda,pret,adresa</query>
+    </statement>
+</statements>
