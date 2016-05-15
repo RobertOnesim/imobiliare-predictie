@@ -19,18 +19,73 @@ import java.util.*;
 public class JsonArff {
     private File file;
     private List<List<String>> objectsData = new ArrayList<>();
-    private Map<String, Pair<Integer, ArffTypes>> attributes = new HashMap<>();
-
+    private Map<String, Pair<Integer, ArffTypes>> attributes;
+    List<Map.Entry<String, Pair<Integer, ArffTypes>>> listAttributes;
     ;
     private int numberOfAttributes;
-    private Map<Integer, ArffTypes> attributeType = new HashMap<>();
-    JsonArff(File Jsonfile) {
+    private Map<Integer, ArffTypes> attributeType;
+    private Map<String,Integer> attributePopularity;
+
+    public List<Pair<String,Integer>> getNumericAttributesWithPopularity(){
+        List<Pair<String,Integer>> list= new ArrayList<>();
+        for (Map.Entry<String, Pair<Integer, ArffTypes>> listAttribute : listAttributes) {
+            if(listAttribute.getValue().getValue()==ArffTypes.NUMERIC){;
+                list.add(new Pair<>(listAttribute.getKey(),attributePopularity.get(listAttribute.getKey())));
+            }
+        }
+        return list;
+
+    }
+
+
+    JsonArff(File Jsonfile) throws IOException, UnconsistentFormatException {
         this.file = Jsonfile;
+        attributes = new HashMap<>();
+        attributeType = new HashMap<>();
+        objectsData = new ArrayList<>();
+        attributePopularity= new HashMap<>();
+        numberOfAttributes = 1;
+
+
+        attributes.put("URL", new Pair<Integer, ArffTypes>(0, ArffTypes.STRING));
+        attributePopularity.put("URL",1);
+
+
+
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode rootNode = mapper.readTree(this.file);
+        Iterator<String> iteratorURLObject = rootNode.fieldNames();
+        while (iteratorURLObject.hasNext()) {
+            String URLPath = iteratorURLObject.next();
+            JsonNode imobilObject = rootNode.get(URLPath);
+            List<String> objectData = new ArrayList<>();
+            objectData.add(URLPath);
+            try {
+                objectData = parseObject(imobilObject, objectData, "");
+                objectsData.add(objectData);
+            } catch (UnconsistentFormatException e) {
+                throw e;
+            }
+        }
+        for (List<String> strings : objectsData) {
+            fillUntilPosition(strings, this.numberOfAttributes - 1);
+
+        }
+        Set<Map.Entry<String, Pair<Integer, ArffTypes>>> set = attributes.entrySet();
+        listAttributes = new ArrayList<Map.Entry<String, Pair<Integer, ArffTypes>>>(set);
+        Collections.sort(listAttributes, new Comparator<Map.Entry<String, Pair<Integer, ArffTypes>>>() {
+            @Override
+            public int compare(Map.Entry<String, Pair<Integer, ArffTypes>> o1, Map.Entry<String, Pair<Integer, ArffTypes>> o2) {
+                return -(o2.getValue().getKey()).compareTo(o1.getValue().getKey());
+            }
+
+        });
     }
 
     public static void main(String[] argv) {
-        JsonArff jsonArff = new JsonArff(new File("case_vandute.json"));
+
         try {
+            JsonArff jsonArff = new JsonArff(new File("case_vandute.json"));
             jsonArff.writeArff(new File("case_vandute.arff"));
         } catch (IOException e) {
             e.printStackTrace();
@@ -39,75 +94,58 @@ public class JsonArff {
         }
     }
 
+
     public void writeArff(File outputFile) throws IOException, UnconsistentFormatException {
-        numberOfAttributes = 1;
-        attributes.put("URL", new Pair<Integer, ArffTypes>(0, ArffTypes.STRING));
 
 
-        ObjectMapper mapper = new ObjectMapper();
-        try {
-            JsonNode rootNode = mapper.readTree(this.file);
-            Iterator<String> iteratorURLObject = rootNode.fieldNames();
-            while (iteratorURLObject.hasNext()) {
-                String URLPath = iteratorURLObject.next();
-                JsonNode imobilObject = rootNode.get(URLPath);
-                List<String> objectData = new ArrayList<>();
-                objectData.add(URLPath);
-                try {
-                    objectData = parseObject(imobilObject, objectData, "");
-                    objectsData.add(objectData);
-                } catch (UnconsistentFormatException e) {
-                    throw e;
-                }
+        PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
+        writer.println("@RELATION random");
+        int posPret=-1;
+        int poz=-1;
+        for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : listAttributes) {
+            poz++;
+            if (entry.getValue().getValue() != ArffTypes.NUMERIC)
+                continue;
+            if(entry.getKey().startsWith("pret")) {
+                posPret=poz;
+                continue;
             }
-            for (List<String> strings : objectsData) {
-                fillUntilPosition(strings, this.numberOfAttributes - 1);
+            String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
+            writer.println(attributeLine);
 
-            }
-            Set<Map.Entry<String, Pair<Integer, ArffTypes>>> set = attributes.entrySet();
-            List<Map.Entry<String, Pair<Integer, ArffTypes>>> list = new ArrayList<Map.Entry<String, Pair<Integer, ArffTypes>>>(set);
-            Collections.sort(list, new Comparator<Map.Entry<String, Pair<Integer, ArffTypes>>>() {
-                @Override
-                public int compare(Map.Entry<String, Pair<Integer, ArffTypes>> o1, Map.Entry<String, Pair<Integer, ArffTypes>> o2) {
-                    return -(o2.getValue().getKey()).compareTo(o1.getValue().getKey());
-                }
-
-            });
-            for (int i = 0; i < objectsData.size(); i++) {
-                System.out.println(objectsData.get(i).get(4));
-            }
-            PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
-            writer.println("@RELATION random");
-            for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : list) {
-                if (entry.getValue().getValue() != ArffTypes.NUMERIC)
-                    continue;
-                ;
-                String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
-                writer.println(attributeLine);
-            }
-            writer.println("@DATA");
-            for (int i = 0; i < objectsData.size(); i++) {
-                StringBuilder stringBuilder = new StringBuilder();
-                for (int j = 0; j < objectsData.get(i).size(); j++) {
-                    if (attributeType.get(j) != ArffTypes.NUMERIC)
-                        continue;
-                    stringBuilder.append(objectsData.get(i).get(j) + " ");
-                }
-                String dataLine = stringBuilder.toString();
-                writer.println(dataLine);
-            }
-            writer.close();
-
-
-        } catch (IOException e) {
-            throw e;
+        }
+        if(posPret!=-1){
+            Map.Entry<String, Pair<Integer, ArffTypes>> entry=listAttributes.get(posPret);
+            String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
+            writer.println(attributeLine);
         }
 
+
+
+        writer.println("@DATA");
+        for (int i = 0; i < objectsData.size(); i++) {
+            StringBuilder stringBuilder = new StringBuilder();
+            for (int j = 0; j < objectsData.get(i).size(); j++) {
+                if (attributeType.get(j) != ArffTypes.NUMERIC && j!=posPret)
+                    continue;
+                stringBuilder.append(objectsData.get(i).get(j) + " ");
+            }
+            if(posPret!=-1)
+            stringBuilder.append(objectsData.get(i).get(posPret)+" ");
+            String dataLine = stringBuilder.toString();
+            writer.println(dataLine);
+        }
+        writer.close();
+
+
     }
+
 
     private Pair<Integer, ArffTypes> getAttributePosition(ArffTypes type, String attribute) throws UnconsistentFormatException {
         if (attributes.containsKey(attribute)) {
 
+           Integer popularity= attributePopularity.get(attribute);
+            attributePopularity.put(attribute,++popularity);
             Pair<Integer, ArffTypes> attributeValue = attributes.get(attribute);
             if (attributeValue.getValue() != type)
                 if (type == ArffTypes.NUMERIC) {// transform from Numeric to string{
@@ -120,6 +158,7 @@ public class JsonArff {
                         }
                     }
                 } else {
+
                     attributes.put(attribute, new Pair<Integer, ArffTypes>(attributeValue.getKey(), ArffTypes.STRING));
                     attributeType.put(attributeValue.getKey(), ArffTypes.STRING);
                 }
@@ -129,8 +168,10 @@ public class JsonArff {
         Pair<Integer, ArffTypes> attributePosition = new Pair<Integer, ArffTypes>(numberOfAttributes++, type);
         attributes.put(attribute, attributePosition);
         attributeType.put(numberOfAttributes - 1, type);
+        attributePopularity.put(attribute,1);
         return attributePosition;
     }
+
 
     private List<String> fillUntilPosition(List<String> objectData, int position) {
         for (int i = objectData.size(); i <= position; i++) {
