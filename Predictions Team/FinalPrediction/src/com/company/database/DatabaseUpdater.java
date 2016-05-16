@@ -53,10 +53,6 @@ public class DatabaseUpdater {
                 }
             }
 
-            /*TODO replace here with the function that calculates the estimate price
-            the function should be able to calculate the price given a map of attributes and their values from the
-            database
-            */
             List<Double> coefficientsProperties = new ArrayList<>();
 
             for (String attribute : attributes) {

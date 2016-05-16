@@ -25,7 +25,7 @@ public class Controller {
     }
 
     public void startApplication() throws SQLException {
-        databaseUpdater.updateEstimatedPriceTable(updatePrice.generateCoefficientsAndPrice(linearRegressionPredictor,databaseUpdater));
+        databaseUpdater.updateEstimatedPriceTable(updatePrice.generateCoefficientsAndPrice(linearRegressionPredictor));
     }
 
 

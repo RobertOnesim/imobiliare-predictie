@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class UpdatePrice {
 
-    public Map<String, Float> generateCoefficientsAndPrice(LinearRegressionPredictor linearRegressionPredictor, DatabaseUpdater databaseUpdater) {
+    public Map<String, Float> generateCoefficientsAndPrice(LinearRegressionPredictor linearRegressionPredictor) {
 
         Map<String, Float> returnStatement = new HashMap<>();
         Statement stmt = null;
