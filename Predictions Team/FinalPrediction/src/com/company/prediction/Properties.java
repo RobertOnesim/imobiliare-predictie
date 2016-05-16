@@ -17,7 +17,7 @@ public class Properties {
         }
 
         public double pondere() {
-           // System.out.println(coeficienti);
+            //System.out.println(coeficienti);
             if (pozitieCoeficient != -1) {
                 if (value.getClass().toString().contains("java.lang.Float")) {
                     return coefficients.get(pozitieCoeficient) * (Float) value;
@@ -37,13 +37,13 @@ public class Properties {
     private Mapper<String> link = new Mapper<>(-1);
     private Mapper<String> titlu = new Mapper<>(-1);
     private Mapper<String> tip = new Mapper<>(-1); // tip: Apartament semidecomandat / Casa/ Vila
-    private Mapper<Float> pret = null;
+    private Mapper<Float> pret = new Mapper<>(-1);
     private Mapper<String> moneda = new Mapper<>(-1);
     private Mapper<Float> pretEstimat = new Mapper<>(-1);
 
-    private Mapper<String> suprafata = null;
-    private Mapper<String> suprafataTeren = null;
-    private Mapper<String> suprafataConstruita = new Mapper<>(-1);;
+    private Mapper<Integer> suprafata = null;
+    private Mapper<Integer> suprafataTeren = null;
+    private Mapper<Integer> suprafataConstruita = new Mapper<>(-1);;
 
     private Mapper<Integer> numarCamere = null;
     private Mapper<Integer> aerConditionat = null;
@@ -68,21 +68,31 @@ public class Properties {
      */
     public Properties(List<Double> coefficients) {
         this.coefficients = coefficients;
+
+        //@ATTRIBUTE detalii-Nr-camere:  NUMERIC
         numarCamere = new Mapper<>(0);
-        suprafata = new Mapper<>(-1); // tb modificate in int
+        //@ATTRIBUTE detalii-Suprafata:  NUMERIC
+        suprafata = new Mapper<>(1); // tb modificate in int
+        //@ATTRIBUTE dotari-Centrala-termica:  NUMERIC
         centralaTermica = new Mapper<>(2);
+        //@ATTRIBUTE dotari-Geam-termopan:  NUMERIC
         geamTermopan = new Mapper<>(3);
         //@ATTRIBUTE dotari-Utilitati:-Apa  NUMERIC 4
         //@ATTRIBUTE dotari-Utilitati:-Gaze  NUMERIC 5
         //@ATTRIBUTE dotari-Utilitati:-Canal  NUMERIC 6
         //@ATTRIBUTE dotari-Utilitati:-Electricitate  NUMERIC 7
-        pret = new Mapper<>(8);
-        vandut = new Mapper<>(9);
-        //@ATTRIBUTE dotari-Usa-metalica:  NUMERIC 10
-        aerConditionat = new Mapper<>(11);
-        geamBaie = new Mapper<>(12);
-        negociabil = new Mapper<>(13);
-        suprafataTeren = new Mapper<>(-1); // tb modificate in int
+        //@ATTRIBUTE vandut  NUMERIC 8
+        vandut = new Mapper<>(-1);
+        //@ATTRIBUTE dotari-Usa-metalica:  NUMERIC 9
+        //@ATTRIBUTE dotari-Aer-conditionat:  NUMERIC 10
+        aerConditionat = new Mapper<>(10);
+        //@ATTRIBUTE dotari-Geam-la-baie:  NUMERIC 11
+        geamBaie = new Mapper<>(11);
+        //@ATTRIBUTE dotari-Negociabil:  NUMERIC 12
+        negociabil = new Mapper<>(12);
+        //@ATTRIBUTE detalii-Suprafata-teren:  NUMERIC 13
+        suprafataTeren = new Mapper<>(13); // tb modificate in int
+        //@ATTRIBUTE pret-valoare  NUMERIC 14
     }
 
     public String getIdProprietate() {
@@ -141,28 +151,38 @@ public class Properties {
         this.pretEstimat.value = pretEstimat;
     }
 
-    public String getSuprafata() {
+    public Integer getSuprafata() {
         return suprafata.value;
     }
 
-    public void setSuprafata(String suprafata) {
-        this.suprafata.value = suprafata;
+    private Integer suprafataNumerica(String suprafata) {
+        if (suprafata != null) {
+            int i;
+            for (i = 0; i < suprafata.length() && suprafata.charAt(i) >= '0' && suprafata.charAt(i) <= '9'; ++i) {
+            }
+            return Integer.valueOf(suprafata.substring(0, i));
+        }
+        return 0;
     }
 
-    public String getSuprafataTeren() {
+    public void setSuprafata(String suprafata) {
+        this.suprafata.value = suprafataNumerica(suprafata);
+    }
+
+    public Integer getSuprafataTeren() {
         return suprafataTeren.value;
     }
 
     public void setSuprafataTeren(String suprafataTeren) {
-        this.suprafataTeren.value = suprafataTeren;
+        this.suprafataTeren.value = suprafataNumerica(suprafataTeren);
     }
 
-    public String getSuprafataConstruita() {
+    public Integer getSuprafataConstruita() {
         return suprafataConstruita.value;
     }
 
     public void setSuprafataConstruita(String suprafataConstruita) {
-        this.suprafataConstruita.value = suprafataConstruita;
+        this.suprafataConstruita.value = suprafataNumerica(suprafataConstruita);
     }
 
     public Integer getNumarCamere() {
@@ -202,6 +222,7 @@ public class Properties {
     }
 
     public void setGeamBaie(Integer geamBaie) {
+       // System.out.println("geam baie " + geamBaie);
         this.geamBaie.value = geamBaie;
     }
 
@@ -277,14 +298,19 @@ public class Properties {
 
     public double calculeazaPret() {
         double pret = 0;
-        //int i = 0;
+        //  int i = 0;
+        //System.out.println("***********************");
         for (Mapper atribut : listaAtribute) {
             if (atribut != null) {
                 pret += atribut.pondere();
+            //    if(atribut.pozitieCoeficient != -1) {
+          //          System.out.println(coefficients.get(atribut.pozitieCoeficient) + " " + atribut.value);
+              //  }
             }
-           // ++i;
-            //System.out.println(i);
+        //    ++i;
+          //  System.out.println(i);
         }
+        System.out.println(pret);
         return pret;
     }
 

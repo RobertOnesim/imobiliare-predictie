@@ -17,7 +17,6 @@ public class LinearRegressionPredictor {
         String trainPath, testPath;
         String option = "";
 
-        System.out.println("Usage: java LinearRegressionPredictor <train-data> <test-data> <option string>");
         trainPath = "apartamente_vandute.arff";
         testPath = "apartamente_vandute.arff";
 
@@ -59,7 +58,7 @@ public class LinearRegressionPredictor {
                 out.write(i + " , " + act + " , " + pred );
                 out.newLine();
 
-                //System.out.println(calculate_price(predictor, t));
+                System.out.println(pred);
 
                 if (pred < 1) {
                     if (pred != 0) {
@@ -96,6 +95,10 @@ public class LinearRegressionPredictor {
         System.out.println("# of testing data: " + testData.numInstances());
         System.out.println("RMSLE on testing data: " + rmsle);
         System.out.println("RMSLE on testing data Zero: " + rmsleZero);
+
+        for (int i = 0; i < predictor.coefficients().length; ++i) {
+            System.out.println(i + ": " + predictor.coefficients()[i]);
+        }
     }
 
     public double[] getCoefficients() {
