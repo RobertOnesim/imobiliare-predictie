@@ -12,6 +12,15 @@
             "Zona:": "Barnova Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603039073099_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603039340846_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603039774615_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603040011791_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603040661499_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603040952222_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386603041229960_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "87.000"
@@ -29,6 +38,14 @@
             "Zona:": "Barnova Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881604666199_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881604898982_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881605113626_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881605320171_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881605542813_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389881605797082_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "25.000"
@@ -54,6 +71,10 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427539257895931_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427539258293857_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "95.000"
@@ -83,6 +104,23 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343279758282_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343280534944_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343281099474_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343281408403_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343281691689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343282247815_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343282532881_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343283085711_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343283383370_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343283712483_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343284240036_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343284734774_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343285013169_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343285867298_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429343314169073_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -107,6 +145,21 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784949493303_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784952521200_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784957035666_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784957379909_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784957719912_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784958057809_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784958497539_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784959114936_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784960351362_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784961027034_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784961374354_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784961685514_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427784962072093_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "160.000"
@@ -138,6 +191,25 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310118227769_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310112536612_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310113671136_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310114779689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310119620190_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310102030550_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310102267160_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310102547947_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310105647891_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310106743914_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310108196593_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310109645872_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310122256590_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310101605126_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459148058063102_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459148060187129_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458310125425194_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "95.000"
@@ -157,6 +229,28 @@
             "Zona:": "Breazu Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814311567753_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814293047152_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814292082303_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814294075737_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814297719572_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814290820046_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814291492981_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814298774388_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814299775977_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814307529336_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814308477902_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814309488379_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814310515943_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814313672248_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814302066797_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814312595886_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814295107968_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814296278194_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814297172598_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458814314835521_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "110.000"
@@ -188,6 +282,29 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336324796933_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336325075548_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336325363680_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336325645558_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336325916998_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336326212507_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336326489327_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336326774289_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336327069102_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336327343853_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336327615192_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336327908209_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336328187021_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336328462358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353336328753070_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122311975993_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122312727360_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122313410164_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122314295445_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122315105413_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1371122315968698_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "115.000"
@@ -220,6 +337,44 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081895508266_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081894453854_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081905292332_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081904263462_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081903675129_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081892926921_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081887168334_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081887704244_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081884085735_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081886131861_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081888723967_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081901640004_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081890812010_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081881193328_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081881961132_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081890401011_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081882462061_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081891884010_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081883029226_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081902650032_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081892360029_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081916716013_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081921147639_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081921766979_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081922330009_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081922918381_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081923434835_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081925231813_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081929258053_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081933203303_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081936434802_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081917464193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081918498218_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081919563660_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081920144664_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/02/1443081937028131_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "590.000"
@@ -252,6 +407,24 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744148552336_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744148796958_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744149099101_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744149387358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744149682980_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744149985448_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744150298653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744150578761_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744150860952_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744151154792_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744151467825_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744151767206_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744152065966_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744152378625_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744152520551_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/05/1369744152672496_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "175.000"
@@ -279,6 +452,19 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382345456722223_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343795440374_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343796042270_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343796435697_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343796802085_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343797160335_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343797526593_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343797876320_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343798217700_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343798500913_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382343799196386_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "125.000"
@@ -313,6 +499,32 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668083406901_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668077916850_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668085612450_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668115858886_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668106949869_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668108664264_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668101461159_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668097678878_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668121988226_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668110630351_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668112369009_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668113723569_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668096717728_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668102973859_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668120275081_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668123363176_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668099366193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668124863396_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668091969905_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668094723025_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382443987927035_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382443988202179_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382443988444082_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1454668075784792_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "175.000"
@@ -345,6 +557,22 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032375513745_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032374222432_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032375957423_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032376747544_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032377303426_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032378884866_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032379580489_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032380035723_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032380989011_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032381585395_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032380512084_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032378019700_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1406032376340872_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1425549112570313_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -371,6 +599,21 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389780441061490_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446094021738_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446094559520_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446094986076_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446095387175_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446096326027_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446096800579_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446097352169_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1396446093539131_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389780441250947_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389780441691831_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1413791172607151_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1389780441435878_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "85.000"
@@ -406,6 +649,22 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917416544067_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917417304681_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917418362829_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917420388004_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917421366766_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917421912700_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917422716366_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917423762848_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917424845774_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917425862848_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917427006043_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917428009941_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917429053339_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2011/08/1379917430108991_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "165.000"
@@ -432,6 +691,22 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042062266629_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042060673041_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042060989636_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042061233982_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042062066011_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042061482057_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042062536411_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042064136794_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042062998016_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042063286653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042063540493_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042063846284_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042062794084_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1395042064399322_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "150.000"
@@ -466,6 +741,20 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621374672800_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621374831746_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621374985521_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621375810196_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621376180171_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621375266161_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621377414077_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621375566883_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621376790622_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621379313754_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621377967131_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396621378746683_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "135.000"
@@ -474,10 +763,10 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/3427": {
-        "descriere": "Stimate iubitorule de locuinte elegante si spatioase, Va propunem spre vanzare o casa libera, spatioasa, cu suprafata de 237.6mp, amplasata pe o suprafata de teren de 1000mp, situata intr-una dintre cele mai frumoase si cautate zone a Iasului, Bucium – in imediata vecinatate a Hotelului Bellaria. Proprietatea beneficiaza de drum asfaltat, este compusa din Demisol+Parter+Etaj, este constructie noua – 2010. In plus, casa are 3 dormitoare si un living si beneficiaza de tot ceea ce este necesar: centrala termica, tamplarie exterioara cu geam termopan cu 3 foi de sticla, gresie, faianta, parchet, izolatie termica. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33.", 
+        "descriere": "Stimate iubitorule de locuinte elegante si spatioase, Va propunem spre vanzare o casa spatioasa, cu suprafata de 237.6mp, amplasata pe o suprafata de teren de 1000mp, situata intr-una dintre cele mai frumoase si cautate zone a Iasului, Bucium – in imediata vecinatate a Hotelului Bellaria. Proprietatea este libera, este compusa din Demisol+Parter+Etaj, constructie noua – 2013, iar drumul este asfaltat. In plus, casa are 4 dormitoare, living, bucatarie, 3 bai, debara, terasa cu acces la gradina. In ceea ce priveste imbunatatirile, casa beneficiaza de tot ceea ce este necesar: centrala termica, tamplarie exterioara cu geam termopan cu 3 foi de sticla Termoplast, gresie si faianta Delta Design, parchet, izolatie termica, scara interioara din lemn de stejar, semineu Schidel, baterii Kludi. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33.", 
         "detalii": {
             "ID proprietate:": "#3427", 
-            "Nr camere:": "4", 
+            "Nr camere:": "5", 
             "Suprafata teren:": "1.000,00 mp", 
             "Suprafata:": "237,00 mp", 
             "Tip oferta:": "Vanzare", 
@@ -492,6 +781,36 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880949335286_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880948061689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880950382305_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880951309228_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880952363769_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880955377713_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880956115289_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880957130733_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880957865310_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880958621449_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880959229874_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880961089607_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880961620592_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880962673649_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880963159654_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880954502955_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880953458766_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880963645595_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880960002811_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1463380020608716_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1463380023539402_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1463380024663718_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1463380026201542_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1463380028389761_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880960575442_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880964696689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462880964168680_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1462881014211967_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "139.000"
@@ -521,6 +840,21 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030160966698_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030161340963_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030161715189_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030162097320_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030162465446_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030162701883_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030163062816_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030163422184_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030163783516_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030164155074_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030164537225_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030164783510_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/09/1349030165176075_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "259.000"
@@ -548,6 +882,28 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626931956779_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626932244098_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626932816527_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626933292919_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626933783516_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626934108113_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626934389057_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626934562460_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626934944529_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626935363077_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626935560017_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626936652518_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626936947044_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626937237630_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626937405193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626937551153_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626937725883_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626937993719_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399626938329723_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1440658736240459_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "90.000"
@@ -576,6 +932,18 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460874552724_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460875482489_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460877203313_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460878485422_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460879594484_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460880475719_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460881284572_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460882555944_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460883368751_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/07/1404460884207723_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "83.000"
@@ -601,6 +969,7 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "109.000"
@@ -625,6 +994,15 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438785827710_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438785992132_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438786290032_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438786475500_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438786574753_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438786749042_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408438786928334_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "89.000"
@@ -648,6 +1026,28 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047404322468_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047404531798_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047404681531_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047404929015_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047405174282_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047405384223_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047405593951_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047405811998_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047405960463_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047406218836_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047406423200_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047406548689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047406763311_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047406885907_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047407032678_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047407362110_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047407577731_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047407792961_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047407940074_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409047872337094_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "320.000"
@@ -681,6 +1081,22 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252881415287_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252881826322_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252882174777_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252882555731_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252882836380_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252883280649_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252883753914_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252884031732_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252884458180_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252884952750_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252885310819_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252886016745_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252886392166_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410252886837344_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -704,6 +1120,28 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033161218454_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033161419713_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033161646655_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033161866151_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033162368306_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033162182688_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033162639750_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033163115329_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033163322560_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033163706715_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033163907962_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033164106645_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033164226891_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033164432434_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033164669845_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033164791780_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033165092784_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033165210830_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033165960283_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411033166394109_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "159.000"
@@ -712,7 +1150,7 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/4251": {
-        "descriere": "Alegeti rafinamentul! Casa eleganta, complet mobilata si utilata! Agentia Imobiliara Casa Alba va propune spre vanzare o proprietate superba, constructie noua din anul 2013, ce se evidentiaza prin bun gust, calitatea finisajelor si amenajarilor, situata in zona Bucium – Plopii fara Sot. Proprietatea este inconjurata de vecini deosebiti, ferita de poluarea si zgomotul orasului si ofera totodata o priveliste deosebita asupra intregului oras. Casa are suprafata utila de 180mp, 1500mp teren si este alcatuita din Parter, Etaj. Avand 5 camere spatioase, 3 grupuri sanitare, fiecare dormitor are propriul dressing, iar casa beneficiaza de gaz, apa, curent electric, canalizare, tamplarie de lemn stratificat interioara si exterioara, gresie, faianta, parchet, sistem de irigare in curte, beci, loc de parcare. Proprietatea poate fi achizitionata la pretul de 220.000 euro! Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4251.", 
+        "descriere": "Alegeti rafinamentul! Casa eleganta, complet mobilata si utilata! Agentia Imobiliara Casa Alba va propune spre vanzare o proprietate superba, constructie noua din anul 2013, ce se evidentiaza prin bun gust, calitatea finisajelor si amenajarilor, situata in zona Bucium – Plopii fara Sot. Proprietatea este inconjurata de vecini deosebiti, ferita de poluarea si zgomotul orasului si ofera totodata o priveliste deosebita asupra intregului oras. Casa are suprafata utila de 180mp, 1500mp teren si este alcatuita din Parter, Etaj. Avand 5 camere spatioase, 3 grupuri sanitare, fiecare dormitor are propriul dressing, iar casa beneficiaza de gaz, apa, curent electric, canalizare, tamplarie de lemn stratificat interioara si exterioara, gresie, faianta, parchet, sistem de irigare in curte, beci, loc de parcare. Proprietatea poate fi achizitionata la pretul de 250.000 euro! Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4251.", 
         "detalii": {
             "ID proprietate:": "#4251", 
             "Nr camere:": "5", 
@@ -733,9 +1171,30 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640237181_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640492730_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640618325_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640726056_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640834952_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377641297667_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377641649870_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377641473920_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377640935775_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377641119905_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377641834012_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642297267_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642035239_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642467363_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642666541_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642851427_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377642977468_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411377643132485_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1432732738351605_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
-            "valoare": "220.000"
+            "valoare": "250.000"
         }, 
         "titlu": "Casa de vanzare Iasi, Bucium - Plopii fara Sot", 
         "vandut": "Nu"
@@ -758,6 +1217,27 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235144107_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235302867_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235461205_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235614846_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235771069_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030235928175_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236085688_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236242422_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236403361_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236556350_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236710854_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030236869433_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237026613_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237183255_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237343391_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237550040_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237715965_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030237867295_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030238025989_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "175.000"
@@ -766,7 +1246,7 @@
         "vandut": "Da"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/4920": {
-        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa Parter + Etaj (la stadiul de proiect), situata in zona Bucium - Plopii fara Sot. Suprafata terenului este de 550mp, beneficiaza de gaz, apa, curent electric. Pretul solicitat pentru vanzarea acestei case este de 65.000 euro. www.casa-alba.ro, COD OFERTA 4920.", 
+        "descriere": "Daca vreti sa va bucurati de racoarea serilor de vara si sa locuiti intr-o zona ferita de traficul urban, tocmai ati gasit locuinta perfecta! Agentia Imobiliara Casa Alba va prezinta o casa dispusa pe Parter + Etaj (la stadiul de proiect), situata in zona Bucium - Plopii fara Sot. La parter se afla camera de zi, baie, bucatarie si hol, la etaj 2 dormitoare, baie si hol; suprafata terenului este de 550mp, iar in ceea ce priveste utilitatile, beneficiaza de gaz, apa, curent electric. Pretul solicitat pentru vanzarea acestei case este de 68.000 euro. www.casa-alba.ro, COD OFERTA 4920.", 
         "detalii": {
             "ID proprietate:": "#4920", 
             "Suprafata teren:": "550,00 mp", 
@@ -781,9 +1261,18 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579661995241_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579662677141_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579663274545_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579664733187_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579665578774_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428579665320965_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1463130429632970_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
-            "valoare": "65.000"
+            "valoare": "68.000"
         }, 
         "titlu": "Casa de vanzare Iasi, Bucium", 
         "vandut": "Nu"
@@ -806,6 +1295,7 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "250.000"
@@ -835,6 +1325,27 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721081383852_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721081993566_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721082516922_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721082800505_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721084779209_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721085618555_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721086277345_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721086815213_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721087375733_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721087912581_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721088556845_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721090017754_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721090432470_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721091068629_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721091403681_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721091985023_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721092270116_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721092566311_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444721092861569_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "280.000"
@@ -860,6 +1371,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "45.000"
@@ -868,7 +1380,7 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/5605": {
-        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa amplasata excelent, intr-o zona protejata din Bucium - Releu. Casa este singura din zona pozitionata chiar in padure! Casa este situata pe o suprafata de teren de 1700mp, este constructie noua din 2008, este dispusa pe Parter si Mansarda. Parterul are suprafata de 93.5mp, mansarda de 97.6mp, casa are 5 camere, 2 bai, terasa, foisor de 50mp, are amenajat in living un semineu si beneficiaza de centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet. Pretul solicitat pentru vanzarea acestei proprietati este de 129.000 euro negociabil.", 
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa amplasata excelent, intr-o zona protejata din Bucium - Releu. Casa este singura din zona pozitionata chiar in padure! Casa este situata pe o suprafata de teren de 1700mp, este constructie noua din 2008, este dispusa pe Parter si Mansarda. Parterul are suprafata construita de 93.5mp, utila de 66mp, mansarda are 97.6mp construiti, 77.7mp utili; casa are 5 camere, 2 bai, terasa, foisor de 50mp, are amenajat in living un semineu si beneficiaza de centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet. Pretul solicitat pentru vanzarea acestei proprietati este de 129.000 euro negociabil.", 
         "detalii": {
             "ID proprietate:": "#5605", 
             "Nr camere:": "5", 
@@ -885,6 +1397,7 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "129.000"
@@ -920,6 +1433,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "129.000"
@@ -950,6 +1464,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "205.000"
@@ -976,6 +1491,7 @@
             "Regim inaltime:": "P+E+M", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "269.000"
@@ -1001,6 +1517,17 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954867795412_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954868329452_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954869655764_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954871431520_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954873707913_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954875435508_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954876792340_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954877209063_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1457954877743335_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "69.900"
@@ -1026,11 +1553,84 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261615927396_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261616200457_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261616392431_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261616650358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261616917611_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261617184463_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261621857528_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261622717386_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261623434200_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261624393358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261625301677_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261626093385_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459261627043492_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1459262864442334_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "65.000"
         }, 
         "titlu": "Case tip duplex de vanzare Iasi, Bucium", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/5996": {
+        "descriere": "Daca vreti sa va bucurati de racoarea serilor de vara si sa locuiti intr-o zona ferita de traficul urban, tocmai ati gasit locuinta perfecta! Agentia Imobiliara Casa Alba va prezinta spre vanzare o proprietate cu priveliste unica spre oras, situata in zona Bucium - Motel. Proprietatea beneficiaza de teren cu suprafata de 530mp, toate utilitatile, iar panorama catre oras este splendida. Casa este constructie 2012, are suprafata de 230mp construiti, este dispusa pe Parter si Etaj; la Parter este un living, loc de luat masa, dormitor, baie, iar la Etaj se afla un living, 2 dormitoare, baie. Si, cum detaliile sunt cele ce fac diferenta, casa este dotata cu centrala termica Viessmann, boiler, tamplarie interioara din lemn stratificat, tamplarie exterioara cu geam termopan tripan, izolatie exterioara cu vata bazaltica, chiuveta de cristal si blat din quartz la bucatarie, obiecte sanitare premium la baie, parchet de lemn de 14mm, glafuri din marmura, iar bucataria este mobilata in totalitate, cu elemente din MDF. Achizitionati aceasta proprietate la pretul de 210.000 euro! www.casa-alba.ro, COD OFERTA 5996.", 
+        "detalii": {
+            "ID proprietate:": "#5996", 
+            "Suprafata teren:": "530,00 mp", 
+            "Suprafata:": "230,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Regim inaltime:": "P+E", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "210.000"
+        }, 
+        "titlu": "Casa P+E de vanzare Iasi, Bucium - Motel", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/6012": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o proprietate excelenta, pozitionata in zona Bucium - Plopii fara Sot. Drumul pana la proprietate este asfaltat, iar casa este constructie 2014, este amplasata pe o suprafata de 505 mp teren, este dispusa pe Parter, Etaj si Pod partial amenajat, avand suprafata utila de 140mp + beci cu suprafata de 15mp. In ceea ce priveste dotarile, casa beneficiaza de centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, toate utilitatile si este compartimentata in 4 dormitoare, living, 3 bai (toate cu geam de aerisire), bucatarie. Achizitionati aceasta proprietate la pretul de 130.000 euro!", 
+        "detalii": {
+            "ID proprietate:": "#6012", 
+            "Suprafata teren:": "505,00 mp", 
+            "Suprafata:": "140,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "130.000"
+        }, 
+        "titlu": "Casa P+E de vanzare Iasi, Bucium - Plopii fara Sot. Pret excelent!", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/705": {
@@ -1049,6 +1649,19 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030554890021_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030554989554_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555146170_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555300624_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555454385_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555606743_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555757545_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030555910525_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030556064614_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030556143182_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/07/1349030556225747_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "230.000"
@@ -1073,6 +1686,10 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427197586736987_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427197587249228_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "35.000"
@@ -1104,6 +1721,24 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836698755166_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836699058133_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836699326140_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836699603330_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836699891603_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836700161600_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836700433531_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836700700332_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836700982672_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836701259266_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836701536586_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836701843320_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836702185931_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836702470471_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836702740337_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/12/1355836703012799_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "450.000"
@@ -1132,6 +1767,28 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493456445603_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493455961470_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493457530538_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493458586694_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493459649704_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493460680392_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493461208971_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493462234313_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493463267456_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493463786609_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493464804512_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493465337309_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493465869203_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493452115746_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493453821062_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493453255795_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493451472844_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1372493452685634_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1426768130849326_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1426768236157747_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -1161,6 +1818,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764852251599_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764854261022_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764855382843_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764855949160_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764848941895_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1372764850045519_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/07/1406272401549902_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "69.900"
@@ -1181,6 +1847,12 @@
             "Zona:": "Centru Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1387278651394755_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1387278651595961_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1387278651817788_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1387278652209036_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -1200,6 +1872,10 @@
             "Zona:": "Centru Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1390554616207711_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/01/1390554616474510_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "149.000"
@@ -1226,6 +1902,16 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623890144371_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623890700697_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623891153694_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623891564100_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623892120019_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623892528716_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623893130887_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399623893459463_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "140.000"
@@ -1249,6 +1935,10 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402047076737534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402047077142231_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "105.000"
@@ -1277,6 +1967,23 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048771425569_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048771719686_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048771942607_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048772187217_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048772423884_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048772664670_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048772884372_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773047656_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773248503_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773380497_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773543576_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773677067_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048773885147_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048774044739_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402048775076773_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "390.000"
@@ -1301,6 +2008,28 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527907835129_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527908318020_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527908723898_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527909191723_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527909376597_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527909560563_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527909820030_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527909959181_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527910219018_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527910461510_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527910745339_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527910866996_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527911104495_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527911241622_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527911482314_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527911730354_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527911864853_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527912004955_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1409043578903603_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/08/1408527912214977_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -1331,39 +2060,16 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1409736013435779_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1409736016211042_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1409736018497911_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "600.000"
         }, 
         "titlu": "Casa de vanzare Iasi, Centru", 
-        "vandut": "Nu"
-    }, 
-    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/4376": {
-        "descriere": "Casa zona centrala! PRET INCREDIBIL! Agentia Imobiliara Casa Alba va prezinta o casa alcatuita din Parter si Etaj cu 6 camere spatioasa, situata in zona Centru – Inspectorarul Scolar – Spitalul Sfantul Spiridon – Liceul Mihai Eminescu. Casa este alcatuita din doua apartamente cu 3 camere cu acces separat, are suprafata de 180mp, este amplasata pe o suprafata de 210mp, are 2 bucatarii, 2 grupuri sanitare cu geam si beci de 20mp. Casa poate fi achizitionara la pretul de 160.000 euro! Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan la numarul de telefon 0745 788 993 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4376.", 
-        "detalii": {
-            "Etaj:": "Parter", 
-            "ID proprietate:": "#4376", 
-            "Nr camere:": "6", 
-            "Suprafata:": "180,00 mp", 
-            "Tip oferta:": "Vanzare", 
-            "Tip proprietate:": "Case/Vile", 
-            "Zona:": "Centru Iasi"
-        }, 
-        "dotari": {
-            "An constructie:": "inainte de 1977", 
-            "Geam termopan:": "Da", 
-            "Utilitati:": [
-                "Apa", 
-                "Gaze", 
-                "Canal", 
-                "Electricitate"
-            ]
-        }, 
-        "pret": {
-            "moneda": "EUR", 
-            "valoare": "160.000"
-        }, 
-        "titlu": "Casa de vanzare Iasi, Centru - Inspectoratul Scolar", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/5058": {
@@ -1377,6 +2083,17 @@
             "Zona:": "Centru Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128628633872_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128628860912_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128629118457_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128629442665_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128630124457_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128630360500_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128630503394_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128630785386_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432128631460695_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "990.000"
@@ -1394,6 +2111,15 @@
             "Zona:": "Centru Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773476001345_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773476528033_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773477200336_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773477496534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773478104320_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773642244975_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/07/1436773479092304_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "200.000"
@@ -1421,6 +2147,23 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188792486813_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188793357975_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188793819042_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188793924351_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188794164261_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188794386088_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188794499058_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188794746898_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188794988154_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188795096865_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188795480510_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188795810894_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188796154821_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188797095461_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/09/1443188797741916_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "190.000"
@@ -1450,6 +2193,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "215.000"
@@ -1468,6 +2212,10 @@
             "Zona:": "Centru Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1456828403399377_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1456828407355508_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "230.000"
@@ -1476,7 +2224,7 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/5897": {
-        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o proprietate situata in zona centrala, in apropierea tuturor punctelor de interes ale orasului. Casa este amplasata pe o suprafata de teren de 955mp, este dispusa pe Subsol, Parter si Mansarda, are suprafata utila de 183mp, este compartimentata in 5 camere (4 la parter si 1 la mansarda), 2 bai, 2 bucatarii. Proprietatea beneficiaza de toate utilitatile: gaz, apa, curent electric, canalizare. Pretul solicitat pentru vanzarea proprietatii este de 450.000 euro.", 
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o proprietate situata in zona centrala, in apropierea tuturor punctelor de interes ale orasului. Casa este amplasata pe o suprafata de teren de 955mp, este dispusa pe Subsol, Parter si Mansarda, are suprafata utila de 183mp; in plus, casa este compartimentata in 5 camere (4 la parter si 1 la mansarda), 2 bai, 2 bucatarii. Proprietatea beneficiaza de toate utilitatile: gaz, apa, curent electric, canalizare. Pretul solicitat pentru vanzarea proprietatii este de 450.000 euro.", 
         "detalii": {
             "ID proprietate:": "#5897", 
             "Suprafata teren:": "955,00 mp", 
@@ -1494,11 +2242,43 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "450.000"
         }, 
         "titlu": "Casa S+P+M de vanzare Iasi, CENTRU", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/6010": {
+        "descriere": "Acum va puteti bucura de zona centrala a Iasului! Agentia Imobiliara Casa Alba va prezinta spre vanzare parterul unei vile situate central, construita in perioada interbelica. Parterul are suprafata de 81mp, este compartimentat in 3 camere, bucatarie, baie cu geam de aerisire, la care se adauga si spatiul de depozitare de la subsol, cu suprafata de 12mp; locuinta este dotata cu centrala termica. In plus, gradina si sera completeaza pozitia avantajoasa a proprietatii. Achizitionati aceasta proprietate la pretul de 100.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#6010", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Utilitati:": []
+        }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743380479149_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743381095964_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743381654107_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743381879154_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743382855445_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743388141575_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743389216795_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743389801285_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1461743391450074_l"
+        ], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "100.000"
+        }, 
+        "titlu": "Parter de vila de vanzare Iasi, Centru", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/1336": {
@@ -1515,6 +2295,19 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334873083944_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334874084746_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334875286357_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334875947442_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334876849860_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334877912576_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334878579556_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334879539552_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334880777139_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334881887498_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/11/1353334882941959_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "275.000"
@@ -1537,6 +2330,12 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380282265041916_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380282265399297_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380282265741326_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380282266307990_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "130.000"
@@ -1563,6 +2362,18 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340823084722_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340823510189_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340823918183_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340824417431_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340824650766_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340824950617_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340825184507_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340825631170_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340826026184_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382340826391991_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "119.000"
@@ -1586,6 +2397,25 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954916950384_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954917435552_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954917944918_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954918462007_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954919061677_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954919552862_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954920205573_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954920736917_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954921479657_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954922054747_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954922554817_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954923020503_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954923453843_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954925793940_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954926245912_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954916034139_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1382954916475963_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "135.000"
@@ -1612,6 +2442,10 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386595788622195_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/12/1386595788964197_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "55.000"
@@ -1634,6 +2468,20 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724092090246_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724092225400_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724092359486_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724092617449_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724092841940_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724093070340_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724093206070_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724093731154_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724093956125_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724094178591_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724094443614_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394724094666093_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "159.000"
@@ -1664,6 +2512,25 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432550054367_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432549447912_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432549670448_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432549869706_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432550255077_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432550490770_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432550788401_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432551220641_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432551495023_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432551788827_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432552564847_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432553556672_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432554034009_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432554731256_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432554996463_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432555219525_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1398432555586687_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "600.000"
@@ -1697,6 +2564,13 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399627440658676_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399627440909197_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399627441104190_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399627441391290_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399627441721520_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "100.000"
@@ -1726,6 +2600,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049565207193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049565450184_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049565619216_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049565936419_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049566195238_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049566513609_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402049566710077_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -1755,6 +2638,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925147360083_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925147599958_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925147795266_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925148033100_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925148283174_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925148519500_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402925148604404_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "55.000"
@@ -1789,6 +2681,28 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166143276304_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166147030286_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166149942836_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166151917582_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166154435500_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166155746605_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166156871736_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166158186683_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166158717409_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166160110921_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166160761638_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166161403269_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166161707904_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166161933045_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166162683387_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166163059901_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166163477171_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166164043078_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166165543119_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412166166068983_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "400.000"
@@ -1814,6 +2728,9 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416831584083283_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "160.000"
@@ -1833,6 +2750,11 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424939982361298_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424939982506758_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424939982635276_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "749.000"
@@ -1860,6 +2782,18 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547726435161_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547726706326_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547727299158_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547727785721_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547728288506_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547728878900_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547729441135_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547729603848_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547729765782_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1425547730131659_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "155.000"
@@ -1887,6 +2821,14 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077267575681_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077268231728_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077268527641_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077268838948_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077270052253_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1426077270373168_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "65.000"
@@ -1910,6 +2852,52 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100221357682_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100221613271_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222032360_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222216338_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222403705_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222590441_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222790214_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100222900376_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100223113996_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100223214999_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100223318119_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100223620863_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100223883634_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100224034858_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100224507062_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100224630068_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100224846984_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225058979_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225267139_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225555308_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225660830_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225757904_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100225961912_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100226179169_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100226400993_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100226671001_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100226869700_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227014925_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227152050_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227251689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227353532_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227551544_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227737625_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100227942776_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100228218917_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100228443030_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100228645413_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100228883668_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100229049491_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100229740301_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100229956469_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100230172781_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100230666753_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427100231081020_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "380.000"
@@ -1929,6 +2917,10 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434629704622151_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434697809279364_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "150.000"
@@ -1956,6 +2948,21 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715677553055_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715678122474_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715678703053_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715679338669_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715679946020_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715680523433_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715681096544_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715681985791_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715682409944_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715682812815_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715683199591_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715683611098_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1434715710354157_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -1964,7 +2971,7 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/5338": {
-        "descriere": "Casă renovata complet, pozitionata excelent! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa situata in cartierul Copou, in imediata apropiere a Universitatii Alexandru Ioan Cuza, Parcul Copou. Casa este dispusa pe Parter, a fost renovata complet in 2015, are suprafata de 112mp. Aceasta casa beneficiaza de toate dotarile: centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, radioatoare din aluminiu, este acoperita cu tabla, iar in ceea ce priveste compartimentarea, casa are 4 camere, baie si bucatarie. Pretul solicitat pentru vanzarea acestei proprietati este de 250.000 euro negociabil. Pentru mai multe detalii si oferte, accesati www.casa-alba.ro, COD OFERTA 5338.", 
+        "descriere": "Casă renovata complet, pozitionata excelent! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa situata in cartierul Copou, in imediata apropiere a Universitatii Alexandru Ioan Cuza, Parcul Copou. Casa este dispusa pe Parter, a fost renovata complet in 2015, are suprafata de 112mp. Aceasta casa beneficiaza de toate dotarile: centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, radioatoare din aluminiu, este acoperita cu tabla, iar in ceea ce priveste compartimentarea, casa are 4 camere, baie si bucatarie. Pretul solicitat pentru vanzarea acestei proprietati este de 230.000 euro negociabil. Pentru mai multe detalii si oferte, accesati www.casa-alba.ro, COD OFERTA 5338.", 
         "detalii": {
             "Etaj:": "Parter", 
             "ID proprietate:": "#5338", 
@@ -1979,9 +2986,26 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797794739842_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797795313606_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797795978079_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797796514197_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797796815626_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797797844834_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797798761358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797799325300_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797799629643_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797800143506_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797800434438_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797800739369_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797801257271_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797801619398_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439797802833251_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
-            "valoare": "250.000"
+            "valoare": "230.000"
         }, 
         "titlu": "Casa pe Parter de vanzare Iasi, Copou", 
         "vandut": "Nu"
@@ -2005,6 +3029,12 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1440659585812069_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1440659587350363_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1440659587768015_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1440659588171070_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "90.000"
@@ -2034,6 +3064,20 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451545825761_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451546378870_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451550952278_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451556541900_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451558052066_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451560528466_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451563195304_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451564536316_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451567053393_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451568571558_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451568965657_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453451570933448_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "135.000"
@@ -2061,6 +3105,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455039044650_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455039710881_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455040394984_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455040991890_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455041534330_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455041731509_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/01/1453455042001924_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "123.000"
@@ -2084,6 +3137,7 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "109.000"
@@ -2105,6 +3159,7 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "230.000"
@@ -2113,7 +3168,7 @@
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/5971": {
-        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa cu teren situata in Copou - Gradina Botanica, zona cu poveste a Iasului. Proprietatea beneficiaza de 600mp teren, POT 30%, CUT 0.9, regim de inaltime P+2E. Casa este constructie 1940, are suprafata de 130mp, este compartimentata in 4 camere si, in plus, are beci. Achizitionati aceasta proprietate la pretul de 289.000 euro!", 
+        "descriere": "Fa cunostinta cu zona cea mai frumoasa a Iasului! Cumpara o proprietate splendida si incarca-ti sufletul cu frumusetea sa! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa cu teren situata in Copou - Gradina Botanica, zona cu poveste a Iasului. Proprietatea beneficiaza de 600mp teren, POT 30%, CUT 0.9, regim de inaltime P+2E. Casa este constructie 1940, are suprafata de 130mp, este compartimentata in 4 camere si, in plus, are beci. Achizitionati aceasta proprietate la pretul de 289.000 euro!", 
         "detalii": {
             "ID proprietate:": "#5971", 
             "Suprafata teren:": "600,00 mp", 
@@ -2123,6 +3178,14 @@
             "Zona:": "Copou Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630275031958_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630276304254_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630276907916_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630278125425_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630278680689_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460630279331079_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "289.000"
@@ -2141,6 +3204,18 @@
             "Zona:": "Costuleni Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035246986697_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035247645905_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035248179128_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035248696188_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035249219590_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035249569420_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035249936366_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035251155542_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460035251528543_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460036116738037_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "21.900"
@@ -2165,6 +3240,7 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "58.000"
@@ -2193,6 +3269,24 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725408437581_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725409021004_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725409416662_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725409803194_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725410107603_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725410452563_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725410948391_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725411199470_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725411470514_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725412232185_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725412348770_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725412573398_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725413211941_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725413406672_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725413650178_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1411725413958075_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "115.000"
@@ -2217,11 +3311,71 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1456327561221360_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1456327560952889_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1456327565598147_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1456327573374099_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "95.000"
         }, 
         "titlu": "Casa tip duplex, Galata, Iasi", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-galata/6015": {
+        "descriere": "Aceasta proprietate se adreseaza persoanelor care doresc o casa noua, pozitionata in oras, ce prezinta avantajul alegerii finisajelor interioare, cu o vedere panoramica asupra orasului! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa situata intr-o zona verde, linistita din Galata, dispusa pe Subsol, Parter si Etaj. Demisolul are suprafata de 13.42mp, Parterul 79.27mp utili, compartimentati in logie, baie, dormitor, bucatarie, hol, camera de zi cu loc de luat masa, terasa, iar Etajul are suprafata utila de 82.75mp si este impartit in hol, 3 dormitoare, 2 bai, logie, dressing, balcon. Suprafata totala a casei este de 175.44mp + spatiu depozitare pod. Proprietatea are toate utilitatile, este imprejmuita cu gard din lemn dublat cu fundatie inalta din beton armat finisat, iar in ceea ce priveste dotarile, beneficiaza de centrala termica in condensatie Viessmann cu distribuitoare pe fiecare nivel, bai prevazute cu incalzire dubla - pardoseala si radiatoare, sistem de alarma, videointerfon, acoperis tip Lindab, izolatie termica cu vata minerala de 20cm, tamplarie clasa A cu 7 camere, fatada finisata cu tencuiala decorativa siliconica hidrofoba, glafuri din granit. Curtea este amenajata cu gazon, trotuare si alee de acces carosabil pavate. In plus, in momentul in care veti contracta casa, veti avea posibilitatea de a alege finisajele care sa fie folosite la interior, in bugetele urmatoare: gresie, faianta, parchet - 15 euro / mp; usi interioare - 200 euro / bucata (vor fi 10 bucati); obiecte sanitare cu montaj inclus - 2.000 euro, placaj trepte scara cu gresie / piatra / lemn masiv, include balustrada - 2.000 euro. Achizitionati aceasta proprietate la pretul de 170.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#6015", 
+            "Suprafata:": "175,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Galata Iasi"
+        }, 
+        "dotari": {
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "170.000"
+        }, 
+        "titlu": "Casa D+P+E de vanzare Iasi, Galata", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-galata/6048": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa superba situata in zona Galata, ferita de traficul intens. Terenul pe care este amplasata constructia este in suprafata totala de 438 mp si este imprejmuit cu gard din beton si lemn pe toate laturile. Casa este constructie din caramida Brikston, cu structura mixta autoportanta si cadre, tencuiala mecanizata Baumit, izolatie terase realizate cu polistiren expandat si 2 straturi de hidroizolatie si sape de panta, termoizolatia este realizata cu polistiren 10 cm si vopsea decoratica silicato-siliconica Ceresit. Casa este finalizata in 2014, este dispusa pe Demisol+Parter+Etaj+Terasa, avand suprafata totala de 258 mp (222 mp utili, fara terase si balcoane): *la demisol se afla un garaj cu suprafata de 18mp cu usa automata, 2 spatii depozitare generoase si casa scarii; *parterul este gandit ca o zona de zi, ce cuprinde hol intrare, camera de oaspeti, sas cu spatiu depozitare si grup sanitar de serviciu, bucatarie mare cu acces direct in curte si camara de 6 mp si spatiu pentru centrala termica, living de 30 mp cu deschidere pe tarasa (usa glisanta); *la etaj se afla 2 dormitoare dintre care unul cu balcon si baie, birou cu terasa si dormitor matrimonial de 19 mp cu baie proprie si balcon. In plus, terasa cu suprafata de 40 mp va ofera o panorama superba asupra intregului oras. Casa este racordata la toate utilitatile, are tamplarie cu profile Veka si geam tripan low-e, rulori exterioare din aluminiu, instalatiile sanitare si de incalzire din PPR izolat si montat in sape, centrala in condensatie Viessmann, semineu, sistem de supraveghere video cu 5 camere HD cu stocare date si posibilitate de vizualizare online, sistem de alarma cu 13 senzori; bucataria este complet utilata cu electrocasnice (plita, cuptor complet digital, masina de spalat vase, hota), bai echipate cu mobilier din MDF vopsit, obiecte sanitare si baterii Ideal Casa Italia, Geberit, usi din lemn masiv (AMA). Completeaza oferta gradina amenajata partial cu arbori decorativi, ienuperi, pini, brazi si gazon. Puteti deveni proprietar al acestei frumoase locuinte pentru pretul de 175.000 euro negociabil! www.casa-alba.ro, COD OFERTA 6048.", 
+        "detalii": {
+            "ID proprietate:": "#6048", 
+            "Nr camere:": "6", 
+            "Suprafata:": "258,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Galata Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Negociabil:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "175.000"
+        }, 
+        "titlu": "Casa D+P+E de vanzare Iasi, Galata", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-galata/738": {
@@ -2256,6 +3410,20 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030588409344_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030588561896_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030588712345_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030588863544_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030588942617_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589091740_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589240809_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589386202_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589534413_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589685653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589763469_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2012/05/1349030589841779_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "129.000"
@@ -2287,6 +3455,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "72.000"
@@ -2317,6 +3486,25 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1443173220624756_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1443173222549518_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1443173232703994_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1443173227091550_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757827011011_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757828157443_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757830542872_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757832127514_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757833606125_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757836561981_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757837872934_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1459757840033268_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439891343677565_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439891343416481_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439891344124327_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439891344273182_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1442411559110053_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "68.000"
@@ -2341,11 +3529,66 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "72.000"
         }, 
         "titlu": "Casa P+E de vanzare Iasi, Horpaz", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-horpaz/6032": {
+        "descriere": "COMISION 0! Alegeti profesionistii de la Casa Alba! Va suntem alaturi pe tot parcursul tranzactiei! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa parte de triplex, situata in Horpaz, la 300m de soseaua Nicolina, la drum asfaltat. Proprietatea beneficiaza de 200mp teren, gaz, apa, curent electric; casa este constructie noua, din caramida, izolata cu polistiren de 10 cm, iar in ceea ce priveste dotarile, are centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, usi la interior si usa la intrare. In plus, casa are suprafata utila de 110mp, este compartimentata in 3 dormitoare, living, 2 bai si bucatarie. Predarea se va face in iulie 2016. Achizitionati aceasta proprietate la pretul de 64.000 euro!", 
+        "detalii": {
+            "ID proprietate:": "#6032", 
+            "Nr camere:": "4", 
+            "Suprafata:": "110,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Horpaz Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/05/1462871406729060_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/05/1462871406937332_l"
+        ], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "64.000"
+        }, 
+        "titlu": "Casa parte de triplex de vanzare Iasi, Horpaz", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-letcani/6009": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa la rosu, constructie 2015, situata in Letcani. Casa este dispusa pe Parter si Mansarda; parterul are suprafata de 77.10mp utili, este compartimentat in camera de zi, bucatarie, baie, birou, camera tehnica, logie si hol, iar mansarda are suprafata de 73.25mp, impartita in 3 dormitoare, 2 balcoane, dressing, baie si hol. In plus, casa beneficiaza de beci. Achizitionati aceasta proprietate la pretul de 32.000 euro negociabil.", 
+        "detalii": {
+            "ID proprietate:": "#6009", 
+            "Suprafata:": "150,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Letcani Iasi"
+        }, 
+        "dotari": {
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "32.000"
+        }, 
+        "titlu": "Casa Parter+Mansarda de vanzare, Letcani", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-lunca-cetatuii/4617": {
@@ -2367,6 +3610,9 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1422953188948303_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "43.000"
@@ -2391,6 +3637,21 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507826757033_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507827570472_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507828016823_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507828816124_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507829519929_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507830117172_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507830704653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507831242641_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507831863051_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507833034961_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507834018301_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1396507834903115_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/04/1400233464613703_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "69.000"
@@ -2414,6 +3675,16 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092025877558_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092026135431_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092026341474_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092026539639_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092026755130_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092026933074_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092027168333_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1415092027320609_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "83.000"
@@ -2436,6 +3707,7 @@
             "Regim inaltime:": "P+E", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "67.000"
@@ -2463,6 +3735,20 @@
             "Regim inaltime:": "P+E", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876112147347_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876112963407_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876113505681_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876113863905_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876116431503_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876114364165_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876114597193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876114872261_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876115030488_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876115850319_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876116181463_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1380876116689327_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "89.000"
@@ -2495,6 +3781,25 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474722277969_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474724170779_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474724680739_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474725398258_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474726007081_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474726865294_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474727432619_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474728249733_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474729558699_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474730294176_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474730827850_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474731444346_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474732293289_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474733166257_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474734378388_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474737626616_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/11/1385474738370395_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "220.000"
@@ -2523,6 +3828,26 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088044188_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088161222_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088271235_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088419135_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088548066_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088691182_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088800349_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197088976214_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197089160259_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197089269570_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197089478938_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197089605875_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197089797240_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197090044356_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197090270156_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197090451000_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197090635462_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/03/1394197090837182_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "170.000"
@@ -2555,6 +3880,30 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123918364222_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123918913695_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123919529309_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123920877278_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123921465861_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123922056655_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123922922365_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123923471167_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123924031172_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123924336476_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123924880237_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123925453081_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123926031559_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123926578620_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123926854114_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123927610875_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123927922509_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123928247663_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123928594135_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123928887450_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123929371695_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1430123929886128_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "190.000"
@@ -2589,6 +3938,27 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537296112329_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537296788297_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537297688946_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537297979368_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537298305783_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537298583888_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537298871756_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537299198425_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537299522023_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537299877213_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537300174097_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537300457238_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537300729047_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537300993673_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537301309845_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537301655555_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537301926481_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1371537302225767_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/06/1417250695412985_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "205.000"
@@ -2613,6 +3983,26 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249674520217_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249674925177_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249675665394_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249676521956_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249676804400_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249677114564_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249677410662_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249677674999_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249678027085_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249678460890_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249678764706_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249679084098_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249679616109_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249680006081_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249681005902_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249681745118_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249682227741_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403249682759330_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "180.000"
@@ -2636,6 +4026,21 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114407821022_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114408345586_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114408778367_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114409303534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114409678187_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114409994971_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114410394759_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114410786101_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114411261812_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114411411113_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114411686037_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114411895156_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/09/1380114412461028_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "105.000"
@@ -2666,6 +4071,20 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127783294391_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127783944182_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127784561284_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127784719453_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127784971159_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127785496397_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127785646413_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127785884320_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127786604549_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127783719239_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127782978088_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2013/10/1383127787680345_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "79.000"
@@ -2697,6 +4116,23 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594771676567_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594771802182_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594771924963_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594772130314_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594772336467_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594772541045_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594772761845_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594772888706_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594773323324_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594773585001_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594773769455_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594773897405_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594774112612_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594774246248_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/02/1391594774402612_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -2726,6 +4162,19 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297179785462_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297180265360_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297180595097_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297180805635_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297181390737_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297181745877_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297181936676_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297182319627_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297182719712_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399297182884887_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1400233287545195_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "85.000"
@@ -2754,6 +4203,16 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714943108701_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714944367564_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714945070260_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714946147425_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714946448730_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714946740406_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714946893565_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401714947206850_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "110.000"
@@ -2782,6 +4241,17 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716334597864_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716335106530_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716335334653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716335643540_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716335891039_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716336151170_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716336380871_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716337727349_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1401716337903165_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "65.000"
@@ -2811,6 +4281,22 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519293363982_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519293772059_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519294308951_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519294714005_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519294921993_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519295289791_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519294062615_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519295113070_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519294482651_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519295621862_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519296258487_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519296680388_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519297019620_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403519297327979_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "200.000"
@@ -2844,6 +4330,28 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942565237782_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942565384596_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942565874796_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942566050366_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942566202678_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942566419961_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942566637534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942566876078_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942567115005_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942567248946_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942567390725_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942567657590_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942567831466_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942568035128_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942568226132_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942568470653_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942568706246_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942568935417_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942569074731_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/09/1410942569276067_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -2875,6 +4383,38 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338968533486_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338968693651_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338968911675_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338969429783_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338969097530_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338969263681_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338969637401_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338970083331_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338970297009_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338970711236_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338971092127_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338971511994_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338972045787_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338972443260_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338972885302_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338973096642_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338973299146_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338973609816_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338974006988_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338974263522_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338974535887_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338974901039_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338975107418_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338975431484_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338976026734_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338976780747_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338977618439_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338978007597_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338979907514_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1412338985231053_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "159.000"
@@ -2902,6 +4442,30 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490877557964_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490878103753_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490878742450_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490879203733_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490879575478_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490879897063_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490880123083_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490880266288_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490880659274_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490880940472_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490881160555_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490881423371_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490881564272_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490881953090_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490882132430_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490882472041_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490882798785_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490883041383_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416553184126607_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416553185970073_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416553187906244_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416490883436805_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "264.000"
@@ -2927,6 +4491,19 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563103473464_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563104320769_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563105023431_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563105814731_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563106877444_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563108135845_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563108933234_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563109336472_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563110753385_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563111283877_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/11/1416563111913571_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "75.000"
@@ -2958,6 +4535,20 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840616388254_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840616591465_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840616801936_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840617061882_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840617402112_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840617611575_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840617845601_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840618080585_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840618293230_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840618746814_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840618992957_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421840619130809_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "97.000"
@@ -2984,6 +4575,16 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473597257475_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473597882695_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598086047_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598254475_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598407777_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598533881_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598646973_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423473598781457_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "85.000"
@@ -3008,6 +4609,12 @@
             "Usa metalica:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424078825645042_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424078825877026_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424078826115081_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424078826518528_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "87.000"
@@ -3037,6 +4644,12 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427293808664810_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427366851020926_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427366850186365_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427293809952160_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "73.900"
@@ -3061,6 +4674,18 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547971984534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972105459_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972377510_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972495536_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972688442_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972822823_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547972917370_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547973179066_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547973333668_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432547973463797_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "157.000"
@@ -3092,6 +4717,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "70.000"
@@ -3119,37 +4745,26 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212350822517_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212351039038_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212351309062_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212351515280_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212351663952_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212351771355_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352052951_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352296055_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352408649_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352635263_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352736952_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212352835275_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/10/1444212353092097_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "129.000"
         }, 
         "titlu": "Casa de vanzare Iasi, Popas Pacurari", 
-        "vandut": "Nu"
-    }, 
-    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-pacurari-canta/5789": {
-        "descriere": "Am gasit casa visurilor tale! Vestea buna este ca se vinde mobilata si utilata, cum se vede in fotografii! Va prezentam o casa situata in zona Pacurari - Rediu. Casa este amplasata pe o suprafata de teren de 650mp, are suprafata utila de 170mp, este constructie noua, dispusa pe Parter si Etaj, cu 5 camere, 3 bai - fiecare cu geam de aerisire, 2 dressing-uri. Casa este constructie din caramida, cu termosistem de 10cm, acoperita cu tabla, finisata premium, cu usi interioare din lemn stratificat, calorifere din aluminiu si beneficiaza de toate utilitatile. Proprietatea poate fi achizitionata mobilata si utilata, cum se vede in fotografii, la pretul de 165.000 euro.", 
-        "detalii": {
-            "ID proprietate:": "#5789", 
-            "Nr camere:": "5", 
-            "Suprafata:": "170,00 mp", 
-            "Tip oferta:": "Vanzare", 
-            "Tip proprietate:": "Case/Vile", 
-            "Zona:": "Pacurari / Canta Iasi"
-        }, 
-        "dotari": {
-            "An constructie:": "dupa 2000", 
-            "Utilitati:": [
-                "Apa", 
-                "Gaze", 
-                "Canal", 
-                "Electricitate"
-            ]
-        }, 
-        "pret": {
-            "moneda": "EUR", 
-            "valoare": "165.000"
-        }, 
-        "titlu": "Casa P+E de vanzare Iasi, Pacurari - Rediu", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-paun/5963": {
@@ -3169,6 +4784,23 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471400887619_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471401508045_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471404482303_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471413113627_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471416663304_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471417989458_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471420333275_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471423325303_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471424784072_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471426801379_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471429427445_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471430444604_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471431663260_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471432835296_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/04/1460471433245425_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "90.000"
@@ -3195,6 +4827,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547569874986_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547581270561_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547576193992_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547585718279_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547579990129_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547567714533_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/02/1455547586629000_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "79.000"
@@ -3226,6 +4867,29 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809894316295_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809895167871_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809898962908_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809899965735_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809901333524_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809902205223_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809903660065_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809904557145_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809905142682_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809907434041_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809908498836_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809908997750_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809909504179_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809909880765_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809910203046_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809910592425_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809911487851_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809912427938_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809913044822_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809914236753_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1430809915044927_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "155.000"
@@ -3246,6 +4910,7 @@
             "Negociabil:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "112.000"
@@ -3275,6 +4940,17 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247640218786_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247640917201_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247642556550_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247642854648_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247643817446_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247644006411_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247644420509_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247644827431_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403247646062660_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "120.000"
@@ -3302,6 +4978,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248835629973_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248835896825_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248836349943_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248836786534_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248837212762_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248837467580_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1403248837716838_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "140.000"
@@ -3325,6 +5010,19 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664638980582_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664639174409_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664639403603_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664639579218_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664639791249_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664639990408_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664640182710_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664640303635_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664640544475_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664640726496_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1421664640888874_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "95.000"
@@ -3358,6 +5056,29 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312163222104_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312163817355_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312164372983_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312164933838_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312165451741_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312165987017_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312166259158_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312166824209_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312167405800_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312167983735_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312168280600_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312168594593_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312168872001_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312169407489_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312169931595_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312170213722_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312170506673_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312170795690_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312171122138_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312171268497_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1428312171401895_l"
+        ], 
         "titlu": "Casa de vanzare Iasi, Metalurgie", 
         "vandut": "Nu"
     }, 
@@ -3378,6 +5099,21 @@
             "Geam termopan:": "Da", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058583241710_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058583805344_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058584401746_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058584940770_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058585548956_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058586123555_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058586864322_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058587439923_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058588120364_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058588738306_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058589377833_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058589958915_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/06/1435058590575535_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "143.000"
@@ -3404,6 +5140,10 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458651864857506_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2016/03/1458651867145143_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "190.000"
@@ -3427,6 +5167,22 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280568842394_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280569844486_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280570411719_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280570977413_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280571537810_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280572084106_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280572440390_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280572989556_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280573360374_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280573650085_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280573937846_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280574215268_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280574776418_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/04/1429280575255168_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "115.000"
@@ -3449,6 +5205,21 @@
             "Tip apartament:": "Decomandat", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055212723010_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055212923055_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055213093660_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055213350231_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055213552859_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055213760519_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055213975989_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055214184501_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055214404191_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055214624877_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055214861752_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055215087455_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/06/1402055215255954_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "98.000"
@@ -3467,6 +5238,7 @@
             "Zona:": "Valea Adanca / Miroslava Iasi"
         }, 
         "dotari": {}, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "79.000"
@@ -3486,6 +5258,17 @@
             "Zona:": "Valea Adanca / Miroslava Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791093506528_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791093821036_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791093976439_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791094234395_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791094569867_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791094872679_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791095034770_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791095169879_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/10/1413791095329714_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "69.000"
@@ -3517,6 +5300,26 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782811293929_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782811941891_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782812497018_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782813115701_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782813651834_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782814261643_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782814791282_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782815326953_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782815619384_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782816179699_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782816743964_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782817035437_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782817369399_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782817675340_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782818007556_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782818297010_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782818635555_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424782818950824_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "155.000"
@@ -3542,11 +5345,38 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "128.000"
         }, 
         "titlu": "Vila P+E de vanzare Iasi, Valea Adanca", 
+        "vandut": "Nu"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-valea-adanca-miroslava/6030": {
+        "descriere": "COMISION 0! Alegeti profesionistii de la Casa Alba! Va suntem alaturi pe tot parcursul tranzactiei! Agentia Imobiliara Casa Alba va prezinta spre vanzare o casa tip duplex, dispusa pe Parter si Etaj, situata in Valea Adanca - ExpoMobila. Proiectul cuprinde 3 duplexuri, in total 6 case; unele dintre acestea sunt incepute, astfel incat puteti urmari etapele de constructie. Casa este constructie noua, cu structura pe cadre, caramida Brikston, izolata cu polistiren de 10cm, acoperita cu tabla Lindab, beneficiaza de centrala termica pe gaz, incalzire in pardoseala, tamplarie cu geam termopan, iar gresia, faianta, parchetul si usile interioare vi le puteti alege, internet, CATV. Proprietatea beneficiaza de teren cu suprafata de 250mp, iar ca utilitati are apa, curent electric, gaz. Suprafata utila a casei este de 110mp, la care se adauga suprafetele balconului si teraselor, de 30mp, avand in total suprafata de 140mp; la parter se afla un living cu semineu, bucatarie, baie, hol si terasa, iar la etaj se afla 3 dormitoare (unul dintre ele matrimonial, cu dressing), baie, balcon. In plus, trebuie sa stati fara griji in privinta parcarii: proprietatea are propriul loc de parcare. Predarea se va face in august 2016. Achizitionati acecasta proprietate la pretul de 65.000 euro!", 
+        "detalii": {
+            "ID proprietate:": "#6030", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "250,00 mp", 
+            "Suprafata:": "140,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Valea Adanca / Miroslava Iasi"
+        }, 
+        "dotari": {
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Electricitate"
+            ]
+        }, 
+        "foto": [], 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "65.000"
+        }, 
+        "titlu": "Casa P+E tip duplex de vanzare Iasi, Valea Adanca - ExpoMobila", 
         "vandut": "Nu"
     }, 
     "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-valea-lupului/3581": {
@@ -3570,6 +5400,13 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399625132914433_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399625133448216_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399625133851497_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1399625134141903_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2014/05/1400233175222354_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "68.000"
@@ -3596,6 +5433,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "94.500"
@@ -3623,6 +5461,7 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "85.000"
@@ -3645,6 +5484,13 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423650279917211_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423650281384054_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423650282252613_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424343572552171_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423650282608769_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "51.950"
@@ -3677,6 +5523,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656266558023_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656266880861_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656267004581_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656267097151_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656267323327_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1424343535304086_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/02/1423656267458331_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "75.950"
@@ -3709,6 +5564,25 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118151161217_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118151687392_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118151978318_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118152751902_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118153272161_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118153558170_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118153854330_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118154454031_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118155341358_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118155627456_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118155924582_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118156475238_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118156746193_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118157023207_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118157331506_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118158030184_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/03/1427118158330229_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "88.000"
@@ -3739,6 +5613,15 @@
                 "Electricitate"
             ]
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022594273828_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022594863177_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022595408006_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022595678587_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022596376091_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022596896271_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/08/1439022597438999_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "72.000"
@@ -3757,6 +5640,10 @@
             "Zona:": "Viticultori Iasi"
         }, 
         "dotari": {}, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1422455488968284_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/01/1422455490507692_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "32.000"
@@ -3782,6 +5669,27 @@
             "Tip imobil:": "Nou", 
             "Utilitati:": []
         }, 
+        "foto": [
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639211621034_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639212204877_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639212987256_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639213513606_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639213764167_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639214259765_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639214549015_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639215072297_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639215370116_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639216153482_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639216716519_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639217006509_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639217532823_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639218342510_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639219007723_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639219593936_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639220254139_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639220835202_l", 
+            "http://www.casa-alba.ro/udata/property_photos/2015/05/1432639220988831_l"
+        ], 
         "pret": {
             "moneda": "EUR", 
             "valoare": "130.000"
