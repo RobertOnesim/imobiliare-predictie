@@ -1,5 +1,6 @@
 package com.company.prediction;
 
+import sun.misc.Sort;
 import weka.classifiers.functions.LinearRegression;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -7,17 +8,42 @@ import weka.core.converters.ConverterUtils;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class LinearRegressionPredictor {
+    class Pair implements Comparable{
+        Integer position;
+        Double value;
+
+        public Pair(int i, double v) {
+            position = i;
+            value = v;
+        }
+
+        @Override
+        public int compareTo(Object o) {
+            if (((Pair)o).value>value) {
+                return -1;
+            }
+            if (((Pair)o).value<value) {
+                return 1;
+            }
+            return 0;
+        }
+    }
 
     private double[] coefficients;
-
+    private double total = 0;
+    private ArrayList<Pair> list = new ArrayList<>();
     public LinearRegressionPredictor() throws Exception {
 
         String trainPath, testPath;
         String option = "";
 
-        System.out.println("Usage: java LinearRegressionPredictor <train-data> <test-data> <option string>");
         trainPath = "apartamente_vandute.arff";
         testPath = "apartamente_vandute.arff";
 
@@ -59,18 +85,26 @@ public class LinearRegressionPredictor {
                 out.write(i + " , " + act + " , " + pred );
                 out.newLine();
 
-                //System.out.println(calculate_price(predictor, t));
+                //System.out.println(pred);
 
                 if (pred < 1) {
                     if (pred != 0) {
-                        System.out.println("member " + i + ":" + pred);
+                        System.out.println("member " + i + ":" + pred + "   " + t.value(t.numAttributes()-1));
+                        System.out.println("Diferenta pret: " + (pred - t.value(t.numAttributes()-1)) );
+                        System.out.println("******************");
+                        total+=Math.abs(pred - t.value(t.numAttributes()-1));
+                        list.add(new Pair(i, (pred - t.value(t.numAttributes()-1))));
                     }
                     pred = 0;
                 }
 
                 if (pred > 15) {
                     if (pred != 15) {
-                        System.out.println("member " + i + ":" + pred);
+                        System.out.println("member " + i + ":" + pred+ "   " + t.value(t.numAttributes()-1));
+                        System.out.println("Diferenta pret: " + (pred - t.value(t.numAttributes()-1)) );
+                        System.out.println("******************");
+                        total+=Math.abs(pred - t.value(t.numAttributes()-1));
+                        list.add(new Pair(i, (pred - t.value(t.numAttributes()-1))));
                     }
                     pred = 15;
                 }
@@ -90,12 +124,18 @@ public class LinearRegressionPredictor {
 
         System.out.println();
 
+        Collections.sort(list);
+        for (Pair p : list) {
+            System.out.println((p.position+17) + " " + p.value);
+        }
         /*Root Mean Squared Logarithmic Error*/
         System.out.println("LinearRegressionPredictor option: " + option);
         System.out.println("# of training data: " + trainData.numInstances());
         System.out.println("# of testing data: " + testData.numInstances());
         System.out.println("RMSLE on testing data: " + rmsle);
         System.out.println("RMSLE on testing data Zero: " + rmsleZero);
+
+        System.out.println("Total: " + total);
     }
 
     public double[] getCoefficients() {

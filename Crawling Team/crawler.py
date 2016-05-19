@@ -1,4 +1,5 @@
 import HTMLParser
+import unittest
 import io
 import json
 import os
@@ -72,6 +73,7 @@ def process_content(link):
     if not content:
         return {}
     rez = {}
+
     detalii = re.search('<div class="ftr-grp" style="margin-top: 0px"><table style="width: 100%">([\s\S]+?)</table>',
                         content)
     rez['detalii'] = {}
@@ -104,6 +106,10 @@ def process_content(link):
         h = HTMLParser.HTMLParser()
         rez['descriere'] = h.unescape(process_html_tags(descriere.group(1)))
         # print rez['descriere']
+
+    rez['foto'] = []
+    for line in re.findall('<img src="([^"]+)" alt="{0}" title="{0}">'.format(rez['titlu']), content):
+        rez['foto'].append(line)
     return rez
 
 
@@ -136,5 +142,31 @@ def main():
     #                                                               sort_keys=True, ensure_ascii=False))
 
 
+class CrawlerTest(unittest.TestCase):
+    def test_process_content(self):
+        content = process_content('http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/1644')
+        self.assertEqual(u'Proprietate deosebita de vanzare Iasi, Bucium', content['titlu'])
+        self.assertEqual(u'590.000', content['pret']['valoare'])
+        self.assertTrue(u'Apa' in content['dotari']['Utilitati:'])
+
+
+    def test_process_html_tags(self):
+        content = '<td><div>text</div></td>'
+        self.assertEqual(process_html_tags(content), 'text')
+
+
+    def test_get_page_content(self):
+        with open('page_content.tmp', 'r') as fd:
+            self.assertEqual(fd.read(), get_page_content('http://profs.info.uaic.ro/~acf/java/'))
+
+
 if __name__ == '__main__':
-    main()
+    # main()
+    unittest.main()
+
+    # content = process_content('http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/1644')
+    # print content['dotari']
+    # with open('page_content.tmp', 'w') as fd:
+        # fd.write(get_page_content('http://profs.info.uaic.ro/~acf/java/'))
+
+    # print content

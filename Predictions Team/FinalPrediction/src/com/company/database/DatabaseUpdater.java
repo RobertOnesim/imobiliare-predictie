@@ -53,10 +53,6 @@ public class DatabaseUpdater {
                 }
             }
 
-            /*TODO replace here with the function that calculates the estimate price
-            the function should be able to calculate the price given a map of attributes and their values from the
-            database
-            */
             List<Double> coefficientsProperties = new ArrayList<>();
 
             for (String attribute : attributes) {
@@ -66,27 +62,27 @@ public class DatabaseUpdater {
             Properties properties = new Properties(coefficientsProperties);
             setAllProperties(properties, rs);
 
-            double PriceDifference = properties.calculeazaPret();
+            double estimatedPrice = properties.calculeazaPret();
+            double priceDifference = estimatedPrice - properties.getPret();
 
             System.out.println("Id proprietate: "+ properties.getIdProprietate());
-            System.out.println("Pretul actual: " + properties.getPret());
-            System.out.println("Diferenta pret: " + PriceDifference);
+            System.out.println("Pretul actual: " + estimatedPrice);
+            System.out.println("Diferenta pret: " + priceDifference);
 
-            double estimatedPrice;
-            if(PriceDifference < 0 ) {
+            /*if(PriceDifference < 0 ) {
                  estimatedPrice = (double) (properties.getPret() - (((double) properties.getPret() * Math.abs(PriceDifference)) / 100));
             }
             else {
                  estimatedPrice = (double) (properties.getPret() + (((double) properties.getPret() * Math.abs(PriceDifference)) / 100));
-            }
+            }*/
 
-            System.out.println("*****************************************");
+//            System.out.println("*****************************************");
             //DONE -Robert
 
 
             Integer primaryKey = rs.getInt(com.company.database.ProprietatiQueryBuilder.getPk());
             // Float estimatedProce = something.getEstimatedPrime(databaseValues);
-            updateEstimatedPriceRow(primaryKey, (float) estimatedPrice);
+            updateEstimatedPriceRow(primaryKey, Float.valueOf((float) estimatedPrice));
         }
 
     }
