@@ -803,3 +803,5 @@ zona : 13
 zone : 2
 zonei : 9
 zugraveli : 17
+înaltime : 9
+întâmpinarea : 17
