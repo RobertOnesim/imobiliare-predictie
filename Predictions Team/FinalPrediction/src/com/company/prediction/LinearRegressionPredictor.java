@@ -1,6 +1,5 @@
 package com.company.prediction;
 
-import sun.misc.Sort;
 import weka.classifiers.functions.LinearRegression;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -8,11 +7,8 @@ import weka.core.converters.ConverterUtils;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import java.math.BigInteger;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
 public class LinearRegressionPredictor {
     class Pair implements Comparable{

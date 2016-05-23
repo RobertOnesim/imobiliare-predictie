@@ -21,7 +21,7 @@ public class DatabaseUpdater {
 
     static private Connection connection;
 
-    private String[] attributes = {"numar_camere","suprafata","centrala_termica","geam_termopan","link", "link", "link","link","pret","vandut","link","aer_conditionat","geam_baie","negociabil","suprafata_teren"};
+    private String[] attributes = {"numar_camere","suprafata","centrala_termica","geam_termopan","link", "link", "link","link","pret","vandut","link","aer_conditionat","geam_baie","negociabil","suprafata_teren","evaluare"};
 
     public DatabaseUpdater() {
         try {
@@ -37,6 +37,7 @@ public class DatabaseUpdater {
     }
 
     public void updateEstimatedPriceTable(Map<String, Float> coefficients) throws SQLException {
+        System.out.println(coefficients.keySet());
         String query = com.company.database.ProprietatiQueryBuilder.buildSelectQuery(coefficients.keySet());
         Statement statement = connection.createStatement();
         ResultSet rs = statement.executeQuery(query);

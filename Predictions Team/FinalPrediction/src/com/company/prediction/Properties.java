@@ -57,8 +57,9 @@ public class Properties {
     private Mapper<String> anConstructie = new Mapper<>(-1);;
     private Mapper<String> descriere = new Mapper<>(-1);
 
-    private Mapper<Integer> evaluare = new Mapper<>(-1); //daca se avauga ceva se va muta in constructor
     private Mapper<String> adresa = new Mapper<>(-1);
+    private Mapper<Integer> evaluare = null;
+    //private Mapper<Double> coeficient2 = null;
     private Mapper<Integer> vandut = null;
 
     /*
@@ -92,6 +93,10 @@ public class Properties {
         negociabil = new Mapper<>(12);
         //@ATTRIBUTE detalii-Suprafata-teren:  NUMERIC 13
         suprafataTeren = new Mapper<>(13); // tb modificate in int
+        //
+        evaluare = new Mapper<>(14);
+        //@ATTRIBUTE pret-valoare  NUMERIC 15
+        //coeficient2 = new Mapper<>(15);
         //@ATTRIBUTE pret-valoare  NUMERIC 14
     }
 

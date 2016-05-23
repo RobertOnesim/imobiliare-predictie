@@ -65,6 +65,8 @@ public class UpdatePrice {
                 returnStatement.put("negociabil",(float) coefficients[12]);
                 //@ATTRIBUTE detalii-Suprafata-teren:  NUMERIC 13
                 returnStatement.put("suprafata_teren",(float) coefficients[13]);
+                //@ATTRIBUTE evaluare  NUMERIC
+                returnStatement.put("evaluare",(float) coefficients[14]);
 
             }
             //STEP 6: Clean-up environment
