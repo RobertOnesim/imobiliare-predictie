@@ -34,9 +34,9 @@ public class JsonArff {
     private Map<Integer, ArffTypes> attributeType;
     private Map<String, Integer> attributePopularity;
 
-    JsonArff(File Jsonfile,List<String> listToIgnore) throws IOException, UnconsistentFormatException {
+    JsonArff(File Jsonfile, List<String> listToIgnore) throws IOException, UnconsistentFormatException {
         this.file = Jsonfile;
-        keysToIgnore=listToIgnore;
+        keysToIgnore = listToIgnore;
         attributes = new HashMap<>();
         attributeType = new HashMap<>();
         objectsData = new ArrayList<>();
@@ -69,7 +69,7 @@ public class JsonArff {
         }
 
         attributes.put("evaluare", new Pair<Integer, ArffTypes>(attributes.size(), ArffTypes.NUMERIC));
-        attributeType.put(attributes.size()-1, ArffTypes.NUMERIC);
+        attributeType.put(attributes.size() - 1, ArffTypes.NUMERIC);
         attributePopularity.put("evaluare", 1);
 
 
@@ -113,29 +113,29 @@ public class JsonArff {
         try {
             List<String> toIgnore = new ArrayList<>();
             toIgnore.add("foto");
-            JsonArff jsonArff = new JsonArff(new File("garsoniere_vandute.json"),toIgnore);
-            jsonArff.writeArff(new File("garsoniere_vandute.arff"));
+            JsonArff jsonArff = new JsonArff(new File("garsoniere_vandute.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu garsonierele vandute ");
             System.out.flush();
 
-            jsonArff = new JsonArff(new File("case.json"),toIgnore);
-            jsonArff.writeArff(new File("case.arff"));
+            jsonArff = new JsonArff(new File("case.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu casele");
 
-            jsonArff = new JsonArff(new File("apartamente.json"),toIgnore);
-            jsonArff.writeArff(new File("apartamente.arff"));
+            jsonArff = new JsonArff(new File("apartamente.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu apartamentele");
 
-            jsonArff = new JsonArff(new File("apartamente_vandute.json"),toIgnore);
-            jsonArff.writeArff(new File("apartamente_vandute.arff"));
+            jsonArff = new JsonArff(new File("apartamente_vandute.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu apartamentele vandute");
 
-            jsonArff = new JsonArff(new File("case_vandute.json"),toIgnore);
-            jsonArff.writeArff(new File("case_vandute.arff"));
+            jsonArff = new JsonArff(new File("case_vandute.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu casele vandute");
 
-            jsonArff = new JsonArff(new File("garsoniere.json"),toIgnore);
-            jsonArff.writeArff(new File("garsoniere.arff"));
+            jsonArff = new JsonArff(new File("garsoniere.json"), toIgnore);
+            jsonArff.addInDBCoefficient();
             System.out.println("am terminat cu garsonierele");
         } catch (IOException e) {
             e.printStackTrace();
@@ -190,7 +190,7 @@ public class JsonArff {
         List<Construction> constuctionList;
         LocationCoefficientCalculator coefficientCalculator = null;
         if (indexZona != -1) {
-            writer.println("@ATTRIBUTE coefficient");
+            writer.println("@ATTRIBUTE coefficient NUMERIC");
             constuctionList = new ArrayList<>();
             for (List<String> strings : objectsData) {
                 double price = Double.parseDouble(strings.get(posPret));
@@ -283,8 +283,8 @@ public class JsonArff {
 
     private List<String> parseObject(JsonNode node, List<String> objectData, String nameOfObject) throws UnconsistentFormatException {
         JsonNodeType type = node.getNodeType();
-        if(this.keysToIgnore.contains(nameOfObject))
-            return  objectData;
+        if (this.keysToIgnore.contains(nameOfObject))
+            return objectData;
 
         switch (node.getNodeType()) {
             case ARRAY:
@@ -348,4 +348,63 @@ public class JsonArff {
     }
 
     enum ArffTypes {NUMERIC, STRING}
+
+    public void addInDBCoefficient() throws UnconsistentFormatException {
+
+        int pozitieId = attributes.get("detalii-ID proprietate:").getKey();
+        int indexZona = -1;
+        int pozitieCurenta = 0;
+        int posPret = -1;
+
+        for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : listAttributes) {
+
+            if (entry.getKey().startsWith("detalii-Zona")) {
+                indexZona = pozitieCurenta;
+            }
+
+            if (entry.getKey().startsWith("pret")) {
+                posPret = pozitieCurenta;
+            }
+            pozitieCurenta++;
+        }
+
+        List<Construction> constuctionList = new ArrayList<>();
+        LocationCoefficientCalculator coefficientCalculator = null;
+
+        if (posPret == -1 || pozitieId == -1 || indexZona == -1) {
+            throw new UnconsistentFormatException("nu gasesc zona sau pret sau id");
+        }
+
+        for (List<String> strings : objectsData) {
+
+            double price = Double.parseDouble(strings.get(posPret));
+
+            String zone = strings.get(indexZona);
+
+            Construction constructie = new Construction();
+
+            constructie.setPrice(price).setZone(zone);
+            constuctionList.add(constructie);
+        }
+
+        coefficientCalculator = new LocationCoefficientCalculator(constuctionList, Construction.Parameter.Zone);
+
+        Connection connection = DatabaseConnection.getInstance().getConnection();
+
+        Statement statement;
+        try {
+
+            statement = connection.createStatement();
+
+            for (int i = 0; i < objectsData.size(); i++) {
+                double coefficient = coefficientCalculator.getZoneCoefficient(new LocationCoefficientRequest().withLocation(objectsData.get(i).get(indexZona)));
+                int number = Integer.parseInt(objectsData.get(i).get(pozitieId).substring(2, objectsData.get(i).get(pozitieId).length() - 1));
+
+                String sql = "UPDATE Proprietati SET coeficient = " + coefficient + " WHERE id_proprietate = " + number;
+                statement.executeUpdate(sql);
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 }
