@@ -4,8 +4,12 @@ package ro.uaic.info.data_mining.conversion; /**
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.DoubleNode;
 import com.fasterxml.jackson.databind.node.JsonNodeType;
 import javafx.util.Pair;
+import ro.uaic.info.data_mining.aggregation.Construction;
+import ro.uaic.info.data_mining.aggregation.LocationCoefficientCalculator;
+import ro.uaic.info.data_mining.aggregation.LocationCoefficientRequest;
 import ro.uaic.info.data_mining.conversion.exceptions.UnconsistentFormatException;
 
 import java.io.File;
@@ -24,13 +28,14 @@ public class JsonArff {
     ;
     private int numberOfAttributes;
     private Map<Integer, ArffTypes> attributeType;
-    private Map<String,Integer> attributePopularity;
+    private Map<String, Integer> attributePopularity;
 
-    public List<Pair<String,Integer>> getNumericAttributesWithPopularity(){
-        List<Pair<String,Integer>> list= new ArrayList<>();
+    public List<Pair<String, Integer>> getNumericAttributesWithPopularity() {
+        List<Pair<String, Integer>> list = new ArrayList<>();
         for (Map.Entry<String, Pair<Integer, ArffTypes>> listAttribute : listAttributes) {
-            if(listAttribute.getValue().getValue()==ArffTypes.NUMERIC){;
-                list.add(new Pair<>(listAttribute.getKey(),attributePopularity.get(listAttribute.getKey())));
+            if (listAttribute.getValue().getValue() == ArffTypes.NUMERIC) {
+                ;
+                list.add(new Pair<>(listAttribute.getKey(), attributePopularity.get(listAttribute.getKey())));
             }
         }
         return list;
@@ -43,13 +48,12 @@ public class JsonArff {
         attributes = new HashMap<>();
         attributeType = new HashMap<>();
         objectsData = new ArrayList<>();
-        attributePopularity= new HashMap<>();
+        attributePopularity = new HashMap<>();
         numberOfAttributes = 1;
 
 
         attributes.put("URL", new Pair<Integer, ArffTypes>(0, ArffTypes.STRING));
-        attributePopularity.put("URL",1);
-
+        attributePopularity.put("URL", 1);
 
 
         ObjectMapper mapper = new ObjectMapper();
@@ -85,8 +89,18 @@ public class JsonArff {
     public static void main(String[] argv) {
 
         try {
-            JsonArff jsonArff = new JsonArff(new File("case_vandute.json"));
+            JsonArff jsonArff = new JsonArff(new File("case.json"));
+            jsonArff.writeArff(new File("case.arff"));
+            jsonArff = new JsonArff(new File("apartamente.json"));
+            jsonArff.writeArff(new File("apartamente.arff"));
+            jsonArff = new JsonArff(new File("apartamente_vandute.json"));
+            jsonArff.writeArff(new File("apartamente_vandute.arff"));
+            jsonArff = new JsonArff(new File("case_vandute.json"));
             jsonArff.writeArff(new File("case_vandute.arff"));
+            jsonArff = new JsonArff(new File("garsoniere.json"));
+            jsonArff.writeArff(new File("garsoniere.arff"));
+            jsonArff = new JsonArff(new File("garsoniere_vandute.json"));
+            jsonArff.writeArff(new File("garsoniere_vandute.arff"));
         } catch (IOException e) {
             e.printStackTrace();
         } catch (UnconsistentFormatException e) {
@@ -100,38 +114,74 @@ public class JsonArff {
 
         PrintWriter writer = new PrintWriter(outputFile, "UTF-8");
         writer.println("@RELATION random");
-        int posPret=-1;
-        int poz=-1;
+        int posPret = -1;
+        int poz = -1;
         for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : listAttributes) {
             poz++;
             if (entry.getValue().getValue() != ArffTypes.NUMERIC)
                 continue;
-            if(entry.getKey().startsWith("pret")) {
-                posPret=poz;
+            if (entry.getKey().startsWith("pret")) {
+                posPret = poz;
                 continue;
             }
             String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
             writer.println(attributeLine);
 
         }
-        if(posPret!=-1){
-            Map.Entry<String, Pair<Integer, ArffTypes>> entry=listAttributes.get(posPret);
+        int indexZona=-1;
+        int pozitieZona=0;
+        for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : listAttributes) {
+
+            if (entry.getKey().startsWith("detalii-Zona")) {
+                indexZona=pozitieZona;
+                break;
+            }
+            pozitieZona++;
+
+
+        }
+        List<Construction> constuctionList;
+        LocationCoefficientCalculator coefficientCalculator = null;
+        if (indexZona != -1) {
+            writer.println("@ATTRIBUTE coefficient");
+            constuctionList = new ArrayList<>();
+            for (List<String> strings : objectsData) {
+                double price = Double.parseDouble(strings.get(posPret));
+                String zone = strings.get(indexZona);
+                Construction constructie = new Construction();
+                constructie.setPrice(price).setZone(zone);
+                constuctionList.add(constructie);
+
+
+            }
+            coefficientCalculator = new LocationCoefficientCalculator(constuctionList, Construction.Parameter.Zone);
+
+
+        }
+
+
+        if (posPret != -1) {
+            Map.Entry<String, Pair<Integer, ArffTypes>> entry = listAttributes.get(posPret);
             String attributeLine = "@ATTRIBUTE " + entry.getKey().replace(' ', '-') + "  " + (entry.getValue().getValue() == ArffTypes.NUMERIC ? "NUMERIC" : "string");
             writer.println(attributeLine);
         }
-
 
 
         writer.println("@DATA");
         for (int i = 0; i < objectsData.size(); i++) {
             StringBuilder stringBuilder = new StringBuilder();
             for (int j = 0; j < objectsData.get(i).size(); j++) {
-                if (attributeType.get(j) != ArffTypes.NUMERIC && j!=posPret)
+                if (attributeType.get(j) != ArffTypes.NUMERIC || j == posPret)
                     continue;
                 stringBuilder.append(objectsData.get(i).get(j) + " ");
             }
-            if(posPret!=-1)
-            stringBuilder.append(objectsData.get(i).get(posPret)+" ");
+
+            if (coefficientCalculator != null) {
+               double coefficient= coefficientCalculator.getZoneCoefficient(new LocationCoefficientRequest().withLocation(objectsData.get(i).get(indexZona)));
+                stringBuilder.append(coefficient+" ");
+            }
+            if (posPret != -1)
+                stringBuilder.append(objectsData.get(i).get(posPret) + " ");
             String dataLine = stringBuilder.toString();
             writer.println(dataLine);
         }
@@ -144,8 +194,8 @@ public class JsonArff {
     private Pair<Integer, ArffTypes> getAttributePosition(ArffTypes type, String attribute) throws UnconsistentFormatException {
         if (attributes.containsKey(attribute)) {
 
-           Integer popularity= attributePopularity.get(attribute);
-            attributePopularity.put(attribute,++popularity);
+            Integer popularity = attributePopularity.get(attribute);
+            attributePopularity.put(attribute, ++popularity);
             Pair<Integer, ArffTypes> attributeValue = attributes.get(attribute);
             if (attributeValue.getValue() != type)
                 if (type == ArffTypes.NUMERIC) {// transform from Numeric to string{
@@ -168,7 +218,7 @@ public class JsonArff {
         Pair<Integer, ArffTypes> attributePosition = new Pair<Integer, ArffTypes>(numberOfAttributes++, type);
         attributes.put(attribute, attributePosition);
         attributeType.put(numberOfAttributes - 1, type);
-        attributePopularity.put(attribute,1);
+        attributePopularity.put(attribute, 1);
         return attributePosition;
     }
 

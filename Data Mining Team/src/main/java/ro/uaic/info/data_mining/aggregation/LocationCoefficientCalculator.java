@@ -18,7 +18,7 @@ public class LocationCoefficientCalculator {
         this.parametersOfInterest = parameters;
     }
 
-    double getZoneCoefficient(@NotNull LocationCoefficientRequest myRequest) {
+   public double getZoneCoefficient(@NotNull LocationCoefficientRequest myRequest) {
 
         double sumOfPricesByZone = 0;
         double sumOfAllPrices = 0;
