@@ -17,7 +17,7 @@ import java.util.Map;
 public class Statements {
     private Map<String, String> statementsByCategory = new HashMap<>();
 
-    protected Statements() {
+    public Statements() {
         parseXML();
     }
 
@@ -48,7 +48,7 @@ public class Statements {
         }
     }
 
-    protected Map<String, String> getStatementsByCategory() {
+    public Map<String, String> getStatementsByCategory() {
         return this.statementsByCategory;
     }
 }

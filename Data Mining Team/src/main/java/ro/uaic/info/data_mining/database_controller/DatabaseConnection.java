@@ -24,6 +24,8 @@ public class DatabaseConnection {
         }
     }
 
+    private Connection connection;
+
     public static DatabaseConnection getInstance() {
         if (null == instance)
             instance = new DatabaseConnection();
@@ -32,9 +34,10 @@ public class DatabaseConnection {
     }
 
     public Connection getConnection() {
-        Connection connection = null;
-
+        if(connection!=null)
+            return connection;
         try {
+
             connection = DriverManager.getConnection(DB_URL, USER, PASS);
         } catch (SQLException e) {
             e.printStackTrace();

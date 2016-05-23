@@ -5,6 +5,8 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.sql.ResultSet;
+import java.sql.Statement;
 import java.util.List;
 
 import static org.junit.Assert.*;
@@ -13,6 +15,20 @@ import static org.junit.Assert.*;
  * Created by Suhani on 27\04\16.
  */
 public class DatabaseControllerTest {
+
+    @Test
+    public void dummySelectTextMiningCoefficient() throws Exception {
+            DatabaseConnection connection = DatabaseConnection.getInstance();
+            Statement statement = connection.getConnection().createStatement();
+            ResultSet queryResult = statement.executeQuery(
+                    new Statements().getStatementsByCategory().get("dummySelectIdProprietate"));
+
+            while(queryResult.next()) {
+                System.out.println(queryResult.getInt(1));
+            }
+
+    }
+
     @Test
     public void getPriceAndZone() throws Exception {
         ApplicationContext context =

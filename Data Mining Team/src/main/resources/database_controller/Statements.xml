@@ -3,4 +3,7 @@
     <statement category="priceAndZone">
         <query>SELECT adresa,pret,moneda FROM Proprietati</query>
     </statement>
+        <statement category="TextMiningEval">
+        <query>SELECT evaluare FROM Proprietati where id_proprietate = ?</query>
+    </statement>
 </statements>

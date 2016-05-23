@@ -11,37 +11,27 @@ import ro.uaic.info.data_mining.aggregation.Construction;
 import ro.uaic.info.data_mining.aggregation.LocationCoefficientCalculator;
 import ro.uaic.info.data_mining.aggregation.LocationCoefficientRequest;
 import ro.uaic.info.data_mining.conversion.exceptions.UnconsistentFormatException;
+import ro.uaic.info.data_mining.database_controller.DatabaseConnection;
+import ro.uaic.info.data_mining.database_controller.Statements;
 
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.*;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.*;
 
 
 public class JsonArff {
+    List<Map.Entry<String, Pair<Integer, ArffTypes>>> listAttributes;
     private File file;
     private List<List<String>> objectsData = new ArrayList<>();
     private Map<String, Pair<Integer, ArffTypes>> attributes;
-    List<Map.Entry<String, Pair<Integer, ArffTypes>>> listAttributes;
     ;
     private int numberOfAttributes;
     private Map<Integer, ArffTypes> attributeType;
     private Map<String, Integer> attributePopularity;
-
-    public List<Pair<String, Integer>> getNumericAttributesWithPopularity() {
-        List<Pair<String, Integer>> list = new ArrayList<>();
-        for (Map.Entry<String, Pair<Integer, ArffTypes>> listAttribute : listAttributes) {
-            if (listAttribute.getValue().getValue() == ArffTypes.NUMERIC) {
-                ;
-                list.add(new Pair<>(listAttribute.getKey(), attributePopularity.get(listAttribute.getKey())));
-            }
-        }
-        return list;
-
-    }
-
 
     JsonArff(File Jsonfile) throws IOException, UnconsistentFormatException {
         this.file = Jsonfile;
@@ -75,6 +65,36 @@ public class JsonArff {
             fillUntilPosition(strings, this.numberOfAttributes - 1);
 
         }
+
+        attributes.put("evaluare", new Pair<Integer, ArffTypes>(attributes.size(), ArffTypes.NUMERIC));
+        attributeType.put(attributes.size()-1, ArffTypes.NUMERIC);
+        attributePopularity.put("evaluare", 1);
+
+
+        int pozitieId = attributes.get("detalii-ID proprietate:").getKey();
+        for (List<String> strings : objectsData) {
+            int number = Integer.parseInt(strings.get(pozitieId).substring(2, strings.get(pozitieId).length() - 1));
+            DatabaseConnection connection = DatabaseConnection.getInstance();
+
+            try {
+                CallableStatement cStatement = connection.getConnection().prepareCall(
+                        new Statements().getStatementsByCategory().get("TextMiningEval"));
+
+                cStatement.setInt(1, number);
+                ResultSet queryResult = cStatement.executeQuery();
+
+                if (!queryResult.next())
+                    throw new UnconsistentFormatException("Eval not found");
+                strings.add(String.valueOf(queryResult.getInt(1)));
+
+
+            } catch (SQLException e) {
+                throw new UnconsistentFormatException(e.getMessage());
+            }
+
+        }
+
+
         Set<Map.Entry<String, Pair<Integer, ArffTypes>>> set = attributes.entrySet();
         listAttributes = new ArrayList<Map.Entry<String, Pair<Integer, ArffTypes>>>(set);
         Collections.sort(listAttributes, new Comparator<Map.Entry<String, Pair<Integer, ArffTypes>>>() {
@@ -89,18 +109,30 @@ public class JsonArff {
     public static void main(String[] argv) {
 
         try {
-            JsonArff jsonArff = new JsonArff(new File("case.json"));
+            JsonArff jsonArff = new JsonArff(new File("garsoniere_vandute.json"));
+            jsonArff.writeArff(new File("garsoniere_vandute.arff"));
+            System.out.println("am terminat cu garsonierele vandute ");
+            System.out.flush();
+
+            jsonArff = new JsonArff(new File("case.json"));
             jsonArff.writeArff(new File("case.arff"));
+            System.out.println("am terminat cu casele");
+
             jsonArff = new JsonArff(new File("apartamente.json"));
             jsonArff.writeArff(new File("apartamente.arff"));
+            System.out.println("am terminat cu apartamentele");
+
             jsonArff = new JsonArff(new File("apartamente_vandute.json"));
             jsonArff.writeArff(new File("apartamente_vandute.arff"));
+            System.out.println("am terminat cu apartamentele vandute");
+
             jsonArff = new JsonArff(new File("case_vandute.json"));
             jsonArff.writeArff(new File("case_vandute.arff"));
+            System.out.println("am terminat cu casele vandute");
+
             jsonArff = new JsonArff(new File("garsoniere.json"));
             jsonArff.writeArff(new File("garsoniere.arff"));
-            jsonArff = new JsonArff(new File("garsoniere_vandute.json"));
-            jsonArff.writeArff(new File("garsoniere_vandute.arff"));
+            System.out.println("am terminat cu garsonierele");
         } catch (IOException e) {
             e.printStackTrace();
         } catch (UnconsistentFormatException e) {
@@ -108,6 +140,17 @@ public class JsonArff {
         }
     }
 
+    public List<Pair<String, Integer>> getNumericAttributesWithPopularity() {
+        List<Pair<String, Integer>> list = new ArrayList<>();
+        for (Map.Entry<String, Pair<Integer, ArffTypes>> listAttribute : listAttributes) {
+            if (listAttribute.getValue().getValue() == ArffTypes.NUMERIC) {
+                ;
+                list.add(new Pair<>(listAttribute.getKey(), attributePopularity.get(listAttribute.getKey())));
+            }
+        }
+        return list;
+
+    }
 
     public void writeArff(File outputFile) throws IOException, UnconsistentFormatException {
 
@@ -128,12 +171,12 @@ public class JsonArff {
             writer.println(attributeLine);
 
         }
-        int indexZona=-1;
-        int pozitieZona=0;
+        int indexZona = -1;
+        int pozitieZona = 0;
         for (Map.Entry<String, Pair<Integer, ArffTypes>> entry : listAttributes) {
 
             if (entry.getKey().startsWith("detalii-Zona")) {
-                indexZona=pozitieZona;
+                indexZona = pozitieZona;
                 break;
             }
             pozitieZona++;
@@ -177,8 +220,8 @@ public class JsonArff {
             }
 
             if (coefficientCalculator != null) {
-               double coefficient= coefficientCalculator.getZoneCoefficient(new LocationCoefficientRequest().withLocation(objectsData.get(i).get(indexZona)));
-                stringBuilder.append(coefficient+" ");
+                double coefficient = coefficientCalculator.getZoneCoefficient(new LocationCoefficientRequest().withLocation(objectsData.get(i).get(indexZona)));
+                stringBuilder.append(coefficient + " ");
             }
             if (posPret != -1)
                 stringBuilder.append(objectsData.get(i).get(posPret) + " ");
