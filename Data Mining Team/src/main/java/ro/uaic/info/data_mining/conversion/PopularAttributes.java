@@ -16,10 +16,11 @@ import java.util.TreeMap;
 public class PopularAttributes {
 
     public static List<String> getNumericAttributesSorted(List<File> jsonFiles) throws IOException, UnconsistentFormatException {
-        JsonArff[] interpretedJsons = new JsonArff[jsonFiles.size()];
+
+         JsonArff[] interpretedJsons = new JsonArff[jsonFiles.size()];
         Map<String, Integer> map = new TreeMap<>();
         for (int i = 0; i < jsonFiles.size(); ++i) {
-            JsonArff converted = new JsonArff(jsonFiles.get(i));
+            JsonArff converted = new JsonArff(jsonFiles.get(i),null);
             interpretedJsons[i] = converted;
         }
 

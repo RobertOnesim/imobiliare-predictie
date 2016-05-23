@@ -29,12 +29,14 @@ public class JsonArff {
     private List<List<String>> objectsData = new ArrayList<>();
     private Map<String, Pair<Integer, ArffTypes>> attributes;
     ;
+    List<String> keysToIgnore;
     private int numberOfAttributes;
     private Map<Integer, ArffTypes> attributeType;
     private Map<String, Integer> attributePopularity;
 
-    JsonArff(File Jsonfile) throws IOException, UnconsistentFormatException {
+    JsonArff(File Jsonfile,List<String> listToIgnore) throws IOException, UnconsistentFormatException {
         this.file = Jsonfile;
+        keysToIgnore=listToIgnore;
         attributes = new HashMap<>();
         attributeType = new HashMap<>();
         objectsData = new ArrayList<>();
@@ -109,28 +111,30 @@ public class JsonArff {
     public static void main(String[] argv) {
 
         try {
-            JsonArff jsonArff = new JsonArff(new File("garsoniere_vandute.json"));
+            List<String> toIgnore = new ArrayList<>();
+            toIgnore.add("foto");
+            JsonArff jsonArff = new JsonArff(new File("garsoniere_vandute.json"),toIgnore);
             jsonArff.writeArff(new File("garsoniere_vandute.arff"));
             System.out.println("am terminat cu garsonierele vandute ");
             System.out.flush();
 
-            jsonArff = new JsonArff(new File("case.json"));
+            jsonArff = new JsonArff(new File("case.json"),toIgnore);
             jsonArff.writeArff(new File("case.arff"));
             System.out.println("am terminat cu casele");
 
-            jsonArff = new JsonArff(new File("apartamente.json"));
+            jsonArff = new JsonArff(new File("apartamente.json"),toIgnore);
             jsonArff.writeArff(new File("apartamente.arff"));
             System.out.println("am terminat cu apartamentele");
 
-            jsonArff = new JsonArff(new File("apartamente_vandute.json"));
+            jsonArff = new JsonArff(new File("apartamente_vandute.json"),toIgnore);
             jsonArff.writeArff(new File("apartamente_vandute.arff"));
             System.out.println("am terminat cu apartamentele vandute");
 
-            jsonArff = new JsonArff(new File("case_vandute.json"));
+            jsonArff = new JsonArff(new File("case_vandute.json"),toIgnore);
             jsonArff.writeArff(new File("case_vandute.arff"));
             System.out.println("am terminat cu casele vandute");
 
-            jsonArff = new JsonArff(new File("garsoniere.json"));
+            jsonArff = new JsonArff(new File("garsoniere.json"),toIgnore);
             jsonArff.writeArff(new File("garsoniere.arff"));
             System.out.println("am terminat cu garsonierele");
         } catch (IOException e) {
@@ -279,6 +283,9 @@ public class JsonArff {
 
     private List<String> parseObject(JsonNode node, List<String> objectData, String nameOfObject) throws UnconsistentFormatException {
         JsonNodeType type = node.getNodeType();
+        if(this.keysToIgnore.contains(nameOfObject))
+            return  objectData;
+
         switch (node.getNodeType()) {
             case ARRAY:
                 for (JsonNode jsonNode : node) {
