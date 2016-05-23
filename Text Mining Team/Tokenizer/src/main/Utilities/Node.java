@@ -1,4 +1,6 @@
-package main;
+package main.Utilities;
+
+import main.Tokens.Token;
 
 import java.util.ArrayList;
 
@@ -61,7 +63,7 @@ public class Node {
         if (!modified)
             multiplyer = 1f;
 
-        return (score + attributeScore + score * attributeScore / 10f) * multiplyer;
+        return (score + attributeScore + score * attributeScore / 15f) * multiplyer;
 
     }
 

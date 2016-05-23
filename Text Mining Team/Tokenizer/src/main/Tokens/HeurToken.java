@@ -1,4 +1,6 @@
-package main;
+package main.Tokens;
+
+import main.Tokens.Token;
 
 import java.io.*;
 import java.net.URL;
@@ -7,6 +9,7 @@ import java.net.URLConnection;
 public class HeurToken {
 
     private static String logFile = "unclassified.txt";
+    private static String negativeWords[] = {" nu ", " lipsit ", " lipsita ", " fara "};
 
     private static String AskDexonline (String word) throws Exception {
 
@@ -34,7 +37,7 @@ public class HeurToken {
             else {
                 switch (token.getType()) {
                     case Token.TYPE_FEATURE:
-                        bw.write("(E) ");
+                        bw.write("(F) ");
                         break;
                     case Token.TYPE_ATTRIBUTE:
                         bw.write("(A) ");
@@ -48,7 +51,7 @@ public class HeurToken {
                 }
             }
             bw.write(word);
-            if (token != null) {
+            if (token != null && token.getType() != Token.TYPE_IGNORE) {
                 bw.write(" : ");
                 bw.write(String.valueOf(token.getTokenScore()));
             }
@@ -62,18 +65,18 @@ public class HeurToken {
 
 
     private static float generateScore (int wordLength, int defLength) {
-        return (float) Math.sqrt(wordLength + Math.sqrt(defLength));
+        return (float) Math.sqrt(wordLength + Math.sqrt(defLength/2));
     }
 
     public static Token generateHeurToken (String word) {
 
-        word = word.toLowerCase().trim();
         if (word.length() < 3)
             return null;
 
         try {
             String def = AskDexonline(word);
-            int type;
+            int type, signum = 1;
+            float score;
             switch (def.substring(def.indexOf("title=") + 7, def.indexOf("title=") + 10)) {
                 case "sub":
                     type = Token.TYPE_FEATURE;
@@ -86,8 +89,16 @@ public class HeurToken {
                     type = Token.TYPE_IGNORE;
             }
 
-            Token token = new Token (word, type, generateScore(word.length(), def.length()));
-            logToken(token, word);
+            for (String lookFor : negativeWords) {
+                if (def.contains(lookFor)) {
+                    signum = -1;
+                    break;
+                }
+            }
+
+            score = signum * generateScore(word.length(), def.length());
+            Token token = new Token (word, type, score);
+            logToken (token, word);
             return token;
 
         } catch (Exception e) {
