@@ -59,7 +59,7 @@ public class Properties {
 
     private Mapper<String> adresa = new Mapper<>(-1);
     private Mapper<Integer> evaluare = null;
-    //private Mapper<Double> coeficient2 = null;
+    private Mapper<Double> coeficient = null;
     private Mapper<Integer> vandut = null;
 
     /*
@@ -96,7 +96,7 @@ public class Properties {
         //
         evaluare = new Mapper<>(14);
         //@ATTRIBUTE pret-valoare  NUMERIC 15
-        //coeficient2 = new Mapper<>(15);
+        coeficient = new Mapper<>(15);
         //@ATTRIBUTE pret-valoare  NUMERIC 14
     }
 
@@ -281,6 +281,15 @@ public class Properties {
 
     public void setVandut(Integer vandut) {
         this.vandut.value = vandut;
+    }
+
+
+    public Double getCoefficient() {
+        return coeficient.value;
+    }
+
+    public void setCofficient(Double cofficient2) {
+        coeficient.value = cofficient2;
     }
 
     public String toString(){

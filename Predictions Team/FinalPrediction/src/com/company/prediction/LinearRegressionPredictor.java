@@ -122,7 +122,7 @@ public class LinearRegressionPredictor {
 
         Collections.sort(list);
         for (Pair p : list) {
-            System.out.println((p.position+17) + " " + p.value);
+            System.out.println((p.position+19) + " " + p.value);
         }
         /*Root Mean Squared Logarithmic Error*/
         System.out.println("LinearRegressionPredictor option: " + option);

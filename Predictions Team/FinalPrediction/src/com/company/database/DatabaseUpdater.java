@@ -21,7 +21,7 @@ public class DatabaseUpdater {
 
     static private Connection connection;
 
-    private String[] attributes = {"numar_camere","suprafata","centrala_termica","geam_termopan","link", "link", "link","link","pret","vandut","link","aer_conditionat","geam_baie","negociabil","suprafata_teren","evaluare"};
+    private String[] attributes = {"numar_camere","suprafata","centrala_termica","geam_termopan","link", "link", "link","link","pret","vandut","link","aer_conditionat","geam_baie","negociabil","suprafata_teren","evaluare","coeficient"};
 
     public DatabaseUpdater() {
         try {
@@ -116,6 +116,7 @@ public class DatabaseUpdater {
         properties.setGeamBaie(rs.getInt("geam_baie"));
         properties.setGeamTermopan(rs.getInt("geam_termopan"));
         properties.setNegociabil(rs.getInt("negociabil"));
+        properties.setCofficient(rs.getDouble("coeficient"));
 
         properties.setDescriere(rs.getString("descriere"));
         properties.setEvaluare(rs.getInt("evaluare"));
