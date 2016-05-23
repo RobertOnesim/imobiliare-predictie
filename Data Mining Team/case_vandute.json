@@ -1,0 +1,806 @@
+{
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/2094": {
+        "descriere": "Stimate iubitorule de vile rafinate, Agentia Imobiliara Casa Alba iti recomanda o vila cu o arhitectura simpla, dar extrem de eleganta, diferentiindu-se prin stil si rafinament, situata in zona Bucium. Construita in anul 2011, in acord cu tendintele actuale, constructia rezidentiala are suprafata de 250 mp, demisol, parter si etaj, cu drum privat asfaltat. Vila este compusa din living, 3 dormitoare, doua dressing-uri, bucatarie cu loc de luat masa, trei grupuri sanitare, terasa acoperita, fiind amenajata cu gresie, faianta, parchet, tamplarie exterioara cu geam termopan, centrala termica, beneficiind de toate utilitatile. Curtea este amenajata cu spatii verzi, piscina si spatii de relaxare. Zona este deosebit de frumoasa, iar vecinii sunt linistiti si primitori. Puteti achizitiona superba proprietate la pretul de 175.000 euro negociabil.", 
+        "detalii": {
+            "ID proprietate:": "#2094", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "500,00 mp", 
+            "Suprafata:": "250,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "175.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/298": {
+        "descriere": "Inca nu ati gasit locuinta cea mai potrivita pentru dumneavoastra? Agentia Imobiliara Casa Alba va propune o vila frumos amenajata alcatuita din parter si etaj, in suprafata de 260mp construiti, situata in zona Bucium pe un teren de 600mp. Aceasta vila beneficiaza de toate utilitatile, avand 3 dormitoare cu bai proprii, living, bucatarie, gresie, faianta, parchet, tamplarie cu geam termopan, centrala termica, finisaje rafinate, mobilata, 2 terase, garaj, curte amenajata. Puteti achizitiona aceasta casa la pretul de 165000 euro", 
+        "detalii": {
+            "ID proprietate:": "#298", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "600,00 mp", 
+            "Suprafata:": "260,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Regim inaltime:": "P+E", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Tip structura:": "caramida", 
+            "Tip teren:": "Intravilan", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "165.000"
+        }, 
+        "titlu": "Vila de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/357": {
+        "descriere": "Agentia Imobiliara Casa Alba va propune spre vanzare o proprietate superba, ce se evidentiaza prin bunul gust si calitatea finisajelor si amenajarilor, situata in zona Bucium, inconjurata de vecini deosebiti, ferita de poluarea si zgomotul orasului si ofera totodata o priveliste deosebita asupra intregului oras. Vila, in suprafata de 260 mp, este recent construita si amplasata pe o suprafata de 886 mp de teren. La demisol se afla un garaj si o camera tehnica, la parter o bucatarie spatioasa, un living mare, generos, loc de luat masa, un loc de relaxare cu iesire directa spre gradina si un grup sanitar. La etaj se afla cele trei dormitoare spatioase si 2 grupuri sanitare. Mansarda este amenajata complet si poate fi folosita ca dormitor de oaspeti. Vila are finisaje premium, tamplarie din lemn de Larice, incalzire prin pardoseala, pardoseli din granit si parchet de cea mai buna calitate, glafuri din granit, centrala termica, geamuri mari ce permit ca intreg spatiul sa fie luminat natural.", 
+        "detalii": {
+            "ID proprietate:": "#357", 
+            "Nr camere:": "5", 
+            "Suprafata teren:": "886,00 mp", 
+            "Suprafata:": "260,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Regim inaltime:": "D+P+E+M", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "259.000"
+        }, 
+        "titlu": "Vila de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/3582": {
+        "descriere": "Agentia Imobiliara Casa Alba va propune spre vanzare o casa situata in frumoasa zona Bucium – Plopii fara Sot, alcatuita din Demisol + Parter + Etaj. Casa are suprafata generoasa de 145mp utili si 70mp la demisol, fiind amplasata pe o suprafata de teren de 350mp. Casa arata foarte bine si beneficiaza de toate utilitatile: gaz, apa, curent electric, canalizare. In plus, casa este compartimentata astfel: living, 2 dormitoare si birou, iar fiecare dormitor are dressing si baie proprie. Pentru a va satisface preferintele, casa beneficiaza si de foisor si beci. Puteti deveni proprietar al acestei proprietati pentru pretul de 90 000 euro. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33. www.casa-alba.ro, COD OFERTA 3582.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#3582", 
+            "Nr camere:": "4", 
+            "Suprafata:": "145,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "90.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Bucium - Plopii fara Sot", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/4085": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa situata in zona Bucium – OMV, alcatuita din Parter+Mansarda. Zona este foarte frumoasa si linistita, se vede superb tot orasul. Suprafata utila a acestei case este de 125 mp, suprafata construita 204 mp (47 mp terase), iar terenul are suprafata de 500 mp, avand acces usor. Casa are la parter un birou pretabil dormitor de 13 mp, un open-space de 33.2 mp, bucatarie de 9 mp, baie de 5 mp. La etaj se afla 2 dormitoare, unul de 17.5mp+9.3 mp dressing +7.65 mp balcon, cel de-al doilea dormitor 15.4 mp+9.7mp balcon si o baie de 10 mp. La parter se afla o superba terasa cu vedere spre Iasi de 18.6 mp. Pretul de vanzare al acestei proprietati este de 109.000 euro negociabil. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4085.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#4085", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "500,00 mp", 
+            "Suprafata:": "125,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "109.000"
+        }, 
+        "titlu": "Casa P+M de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/4086": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa dispusa pe parter, din zona Bucium, la 800 m de la OMV. Zona este foarte frumoasa si linistita, se vede superb tot orasul. Suprafata Contruita a casei este de 147 mp + 21 mp terasa, iar suprafata utila este de 116 mp. La parter se afla doua dormitoare cu suprafata de 17.5 mp, un dormitor cu suprata de 17.3 mp, 2 bai (7.7 mp si 5 mp), Bucatarie 11 mp (open space) + living 21.8 mp. In plus, casa beneficiaza de apa, curent, gaz, fosa, gresie, faianta, parchet, centrala, pod. Casa este in constructie cu termen de finalizare de 2-3 luni. Pretul de vanzare al acestei proprietati este de 89.000 euro negociabil. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4086.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#4086", 
+            "Nr camere:": "4", 
+            "Suprafata:": "147,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "89.000"
+        }, 
+        "titlu": "Casa dispusa pe parter de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/428": {
+        "descriere": "", 
+        "detalii": {
+            "ID proprietate:": "#428", 
+            "Nr camere:": "6", 
+            "Suprafata teren:": "600,00 mp", 
+            "Suprafata:": "360,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Regim inaltime:": "D+P+E+M", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "175.000"
+        }, 
+        "titlu": "Vila de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/5679": {
+        "descriere": "Agentia Imobiliara CASA ALBA va prezinta spre vanzare o casa situata intr-un cartier privat din zona Bucium. Casa este constructie robusta din caramida, realizata in 2008, este dispusa pe Parter si Etaj si pod mansardabil, are suprafata utila de 140mp si 180mp totali. In ceea ce priveste compartimentarea, la parter se afla un hol, living, loc de luat masa, bucatarie mare cu iesire pe terasa, dressing, baie; la etaj exista un dormitor matrimonial cu baie proprie si iesire pe terasa, hol, doua dormitoare, hol, baie; podul este mansardabil, are pereti din caramida si poate fi usor amenajat in doua camere si o baie. In ceea ce priveste dotarile, casa are centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, aer conditionat, senzor de fum, cablu, fibra optica, izolatie termica exterioara. Proprietatea beneficiaza de o suprafata de teren de 677mp (amenajat cu gazon, alei pietonale, foisor, fantana arteziana), drum de acces asfaltat, supraveghere video. Pretul solicitat este de 129.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#5679", 
+            "Nr camere:": "5", 
+            "Suprafata teren:": "677,00 mp", 
+            "Suprafata:": "140,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Aer conditionat:": "Da", 
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Regim inaltime:": "P+E", 
+            "Tip apartament:": "Decomandat", 
+            "Tip structura:": "caramida", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "129.000"
+        }, 
+        "titlu": "Casa P+E de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/705": {
+        "descriere": "OCAZIE RARA! Casa Alba va propune o casa superba in suprafata da 210mp, construita in 2004 din caramida si BCA, situata in zona Bucium - 3 Sarmale, pe un teren in suprafata de 1200 mp. Pentru un confort sporit si o mai buna iluminare a spatiilor interioare, fatada principala este orientata spre Est, dormitoarele si biroul - spre Sud. Casa beneficiaza de finisaje de foarte buna calitate, materiale si detalii alese atent, fiind compartimentata astfel: -La parter se afla un living spatios, cu semineu, o bucatarie generoasa cu loc de luat masa, 2 grupuri sanitare, terasa exterioara acoperita -La etaj se afla 3 dormitoare, un birou si doua grupuri sanitare. Casa a fost amenajata si imbunatatita cu gresie, faianta, parchet, tamplarie exterioara din lemn cu geam termopan, centrala termica cu condensare, aer conditionat, radiatoare din fonta, tamplarie interioara din lemn masiv si se vinde cu bucataria si dressing-urile mobilate. De asemenea, terenul pe care este amplasata casa beneficiaza de amenajari atente, cu foisor, livada cu pomi fructiferi, alei pavate, fantana, sistem de irigatii, beci. Ceea ce caracterizeaza aceasta proprietate este bunul gust, atentia la detalii si rigurozitatea cu care au fost alese materialele. Puteti deveni proprietarul acestei superbe proprietati pentru suma de 230.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#705", 
+            "Suprafata teren:": "1.200,00 mp", 
+            "Suprafata:": "210,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Bucium Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Regim inaltime:": "P+E", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "230.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Bucium", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/1589": {
+        "descriere": "Agenita imobiliara Casa Alba va propune o vila D+P+E+M in suprafata de 550 mp, situata in inima orasului dar ferita de trafic, amplasata pe o suprafata de teren de 290 mp. Vila se preteaza foarte bine unor activitati comerciale sau birouri, avand 9 camere mari, 4 grupuri sanitare, bucatarie spatioasa, camera tehnica si este finisata si amenajata cu gresie, faianta, parchet, tamplarie exterioara cu geam termopan, centrala termica, aer conditionat, usi interioare noi. Aceasta proprietate se vinde cu 450.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#1589", 
+            "Nr camere:": "9", 
+            "Suprafata teren:": "290,00 mp", 
+            "Suprafata:": "550,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {
+            "Aer conditionat:": "Da", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Regim inaltime:": "D+P+E_M", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "450.000"
+        }, 
+        "titlu": "Vila de vanzare Iasi, Centru", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/2148": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o resedinta superba situata in centru, in exclusivitate la agentia noastra. Pe o suprafata de teren de 500 mp, resedinta a fost perfect pozitionata pe terenul generos pentru a profita din plin de amplasamentul regiunii. Cu o suprafata de 200 mp, vila dispune de 3 dormitoare, 3 bai, living, bucatarie. Zona de zi este un spatiu liber, luminos si marcheaza un maximum de interactivitate intre bucatarie, locul de luat masa si living, dar si intre toate acestea si curte, gradina amenajata modern si terasa. In plus, vila dispune si de beci. Largi si luminoase, spatiile interioare sunt dispuse eficient pentru a avea o configuratie confortabila, aerisita, dar care sa nu socheze. Interiorul si exteriorul acestei vile denota stil si rafinament indubitabile. Fara trucuri structurale ascunse, fara materiale de fatada complicate ori culori prea indraznete, compozitia intregii cladiri este de o eleganta incontestabila. Renovata complet si consolidata in 2008, constructia a fost conceputa pentru a exista mai multe centre de interes, dar, totodata, si deschiderea catre exterior pentru mai multe tipuri de spatii. De asemenea, aceasta proprietate se vinde impreuna cu o casuta amenajata in spatele vilei, un apartament de 1 camera cu baie, bucatarie. Prin acest joc studiat intre inauntru si afara, casa devine o adevarata „insula” de liniste si relaxare in interiorul unei zone centrale cu controversate valente urbane. Libera, complet utilata si mobilata, superba proprietate poate fi achizitionata la pretul de 180 000 euro negociabil.", 
+        "detalii": {
+            "ID proprietate:": "#2148", 
+            "Nr camere:": "4", 
+            "Suprafata construita:": "200,00 mp", 
+            "Suprafata teren:": "500,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {
+            "Aer conditionat:": "Da", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "180.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Centru", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/2154": {
+        "descriere": "PRET FOARTE BUN! Agentia Imobiliara Casa Alba va prezinta o casa situata intr-o zona centrala. Resedinta se dezvolta pe 1 nivel, cuprinzand 3 camere, 2 bai, 1 bucatarie. Cu o suprafata totala de teren de 410 mp si 130 mp utili, proprietatea dispune de terasa, garaj, avand toate utilitatile, pentru confortul complet al proprietarilor. Ca expresie plastica a modestiei arhitecturale, cladirea nu propune finisaje pretioase si nu epateaza catusi de putin. Casa se distinge prin designul simplu si acuratetea executiei, suprafete albe perfect aliniate. In interior, suprafetele din materiale simple si plane anima spatiul prin texturile naturale. Casa necesita renovare! Proprietatea poate fi achizitionata la pretul de 69 900 euro.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#2154", 
+            "Nr camere:": "3", 
+            "Suprafata teren:": "410,00 mp", 
+            "Suprafata:": "130,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "69.900"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Centru", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/2961": {
+        "descriere": "Daca doriti sa achizitionati o casa situata central, Agentia Imobiliara CASA ALBA va prezinta urmatoarea varianta: o casa cu suprafata de 134 mp utili, situata pe o suprafata de teren de 677mp in zona centrala. Casa este foarte aproape de Palas Mall, este ideala sediu firma sau imobil locuinte colective, are 30m deschidere la strada, POT 50%, CUT: 4, Regim de Inaltime conform PUZ. Puteti achizitiona aceasta casa la pretul de 149 000 euro.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#2961", 
+            "Nr camere:": "3", 
+            "Suprafata:": "134,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {}, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "149.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Centru", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-centru/4089": {
+        "descriere": "Daca doriti sa achizitionati o casa situata intr-una dintre cele mai bune zone ale Iasului, Agentia Imobiliara Casa Alba va prezinta urmatoarea oportunitate: o casa alcatuita din Demisol + Parter + Etaj + Mansarda, cu suprafata de 150mp utili fara mansarda, amplasata pe o suprafata de teren de 375mp, situata in zona Centru – in imediata apropiere a Universitatii de Medicina si Farmacie. Ferita de zgomot, casa beneficiaza de centrala termica, 2 grupuri sanitare, arata impecabil la exterior si promite o eleganta aparte. Puteti achizitiona aceasta casa la pretul de 180 000 euro negociabil. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan, la numarul de telefon 0745 788993 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4089.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#4089", 
+            "Nr camere:": "6", 
+            "Suprafata:": "150,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Centru Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "inainte de 1977", 
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "180.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Centru - UMF", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/1336": {
+        "descriere": "Agentia imobiliara Casa Alba va propune o casa in suprafata de 175 mp, situata in zona Copou pe o suprafata de teren de 500 mp, formata din parter si etaj, ideala pentru o investitie, restaurant, gradinita.", 
+        "detalii": {
+            "ID proprietate:": "#1336", 
+            "Nr camere:": "5", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "275.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/2532": {
+        "descriere": "Doriti sa achizitionati o casa situata intr-o zona foarte buna? Agentia Imobiliara Casa Alba va prezinta o casa cu suprafata construita de 66mp, situata in zona Copou pe o suprafata de teren de 260mp, langa liceul Negruzzi. Casa este compusa din demisol, parter si etaj si este foarte bine compartimentata. Atfel, la parter se afla o camera, o bucatarie, baie si hol, iar la etaj se regasesc 2 camere, baie, balcon si hol. De asemenea, casa beneficiaza de parchet din stejar, centrala termica, o boxa cu suprafata de 15 mp. Puteti achizitiona aceasta casa la pretul de 130 000 euro negociabil.", 
+        "detalii": {
+            "ID proprietate:": "#2532", 
+            "Suprafata teren:": "260,00 mp", 
+            "Suprafata:": "66,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Negociabil:": "Da", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "130.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/2637": {
+        "descriere": "Daca sunteti in cautarea unui colaborator pentru a va gasi o noua locuinta, Agentia Imobiliara Casa Alba va sta la dispozitie atat in alegerea celei mai bune oferte, cat si pe intreg parcursul tranzactiei! Va prezentam o casa aflata pe stradela Copou, cu suprafata de 120 mp, situata pe o intindere de teren de 380 mp. Fiind construita pe cadre, compartimentata din zidarie de caramida, cu o arhitectura simpla, fara forme excentrice casa confera, totusi, un aer elegant si modern. Este alcatuita din 5 camere, 2 grupuri sanitare, beci si dispune de gaz, apa, curent, fosa septica. Puteti deveni proprietarul acestei case la pretul de 119 000 euro negociabil. Profitati de oportunitate!", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#2637", 
+            "Nr camere:": "5", 
+            "Suprafata teren:": "380,00 mp", 
+            "Suprafata:": "120,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Geam termopan:": "Da", 
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "119.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/3261": {
+        "descriere": "Inca sunteti in cautarea unei noi locuinte pentru dumneavoastra, situata intr-o zona exclusivista a Iasului? Agentia Imobiliara CASA ALBA va prezinta o casa cu o arhitectura moderna, cu linii drepte si elegante, situata in zona Copou. Casa este constructie noua din 2000, este alcatuita din parter, etaj, mansarda si terasa, fiind foarte bine compartimentata. Suprafata utila a acestei proprietati este de 260mp, beneficiaza de 390mp teren proprietate + 400mp in concesiune (900 lei chirie pe an). De asemenea, casa are 5 camere si beneficiaza de garaj. Aceasta proprietate poate fi achizitionata la pretul de 159 000 euro. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan la numarul de telefon 0745 788 993.", 
+        "detalii": {
+            "ID proprietate:": "#3261", 
+            "Nr camere:": "5", 
+            "Suprafata:": "260,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Negociabil:": "Da", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "159.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/3583": {
+        "descriere": "Inca sunteti in cautarea celei mai potrivite locuinte pentru dumneavoastra? Agentia Imobiliara Casa Alba va propune spre vanzare o casa frumos amenajata alcatuita din parter si mansarda, in suprafata de 120mp utili, situata in zona Copou, aproape de Liceul Negruzzi, pe un teren de 490mp. Aceasta casa beneficiaza de toate utilitatile, fiind compusa din 3 camere: living, dormitor, biblioteca, 2 bai, bucatarie si este imbunatatita cu suprafete placate cu gresie, faianta, parchet, centrala termica. Casa se vinde mobilata, cu garaj si curte amenajata. Puteti achizitiona aceasta casa la pretul de 100.000 euro.", 
+        "detalii": {
+            "ID proprietate:": "#3583", 
+            "Nr camere:": "3", 
+            "Suprafata teren:": "490,00 mp", 
+            "Suprafata:": "120,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "inainte de 1977", 
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Negociabil:": "Da", 
+            "Regim inaltime:": "1", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Vechi", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "100.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, zona Copou - Colegiul Negruzzi", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/3741": {
+        "descriere": "Daca doriti sa achizitionati o casa situata intr-una dintre cele mai bune zone ale Iasului, Agentia Imobiliara Casa Alba va prezinta urmatoarea oportunitate: o casa cuplata, cu suprafata de 130mp utili, amplasata pe o suprafata de teren de 1000mp, situata in zona Copou –in imediata apropiere a liceului Mihai Eminescu, Bolta Rece, Universitatea de Medicina si Farmacie. Ferita de zgomot, casa beneficiaza de toate utilitatile, garaj, pivnita, casa avand 5 camere spatioase. Puteti achizitiona aceasta casa la pretul de 120 000 euro negociabil. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan, la numarul de telefon 0745 788 993. Merita vazuta!", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#3741", 
+            "Nr camere:": "5", 
+            "Suprafata teren:": "1.000,00 mp", 
+            "Suprafata:": "130,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "120.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou - Liceul Eminescu", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/3773": {
+        "descriere": "Daca doriti sa achizitionati o casa situata intr-una dintre cele mai bune zone ale Iasului, Agentia Imobiliara Casa Alba va prezinta urmatoarea oportunitate: o casa cu suprafata de 110mp construiti, amplasata pe o suprafata de teren de 220mp, in zona Copou – liceul Negruzzi. Casa este racordata la toate utilitatile: gaz, apa, curent electric, canalizare, necesita renovare si este construita din caramida. Puteti achizitiona aceasta casa la pretul de 55 000 euro negociabil. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan, la numarul de telefon 0745 788 993. Merita vazuta!", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#3773", 
+            "Nr camere:": "3", 
+            "Suprafata teren:": "220,00 mp", 
+            "Suprafata:": "110,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Negociabil:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "55.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Copou - liceul Negruzzi", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-copou/4296": {
+        "descriere": "Alegeti rafinamentul! Casa eleganta, complet mobilata si utilata, zona Copou! Agentia Imobiliara Casa Alba va propune spre vanzare o proprietate superba, constructie noua din caramida, anul 2012, ce se evidentiaza prin bun gust, calitatea finisajelor si amenajarilor, situata in zona COPOU. Proprietatea este inconjurata de vecini deosebiti, ferita de poluarea si zgomotul orasului si ofera totodata o priveliste deosebita asupra intregului oras. Casa are suprafata utila de 230mp plus demisol, 500mp teren si este alcatuita din Demisol, Parter, Etaj. Avand 5 camere spatioase (2 living-uri si 3 dormitoare), 4 grupuri sanitare si casa beneficiaza de gaz, apa, curent electric, canalizare, centrala termica, aer conditionat, acoperis tabla Lindab, panouri solare pentru apa calda, tamplarie cu 6 camere cu geam triplustrat, placari trepte stejar. In plus, casa beneficiaza de terasa, beci, spatii depozitare, dressing-uri. Proprietatea poate fi achizitionata mobilata si utilata la pretul de 400.000 euro! Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4296.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#4296", 
+            "Nr camere:": "5", 
+            "Suprafata:": "230,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Copou Iasi"
+        }, 
+        "dotari": {
+            "Aer conditionat:": "Da", 
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam la baie:": "Da", 
+            "Geam termopan:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "400.000"
+        }, 
+        "titlu": "Casa mobilata si utilata de vanzare Iasi, Copou", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-horpaz/5262": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa propusa spre vanzare, situata in Horpaz. Casa este constructie noua, 2010, din caramida, este situata la drum asfaltat, este dispusa pe Parter+Etaj+Mansarda, pe o suprafata de teren de 500mp. Casa are 2 terase, 2 bai, 3 dormitoare, garaj pentru masina in curte, totul este nou, iar ca dotari, beneficiaza de centrala termica, aer conditionat, tamplarie cu geam termopan, gresie, faianta, parchet, termoizolatie. Pretul solicitat pentru vanzarea acestei case este de 72.000 euro. Pentru mai multe detalii si oferte, accesati www.casa-alba.ro, COD OFERTA 5262.", 
+        "detalii": {
+            "ID proprietate:": "#5262", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "500,00 mp", 
+            "Suprafata:": "150,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Horpaz Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Tip structura:": "caramida", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "72.000"
+        }, 
+        "titlu": "Casa P+E+M de vanzare Iasi, Horpaz", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-nicolina-frumoasa-cug/3795": {
+        "descriere": "Agentia Imobiliara CASA ALBA va prezinta o casa situata in zona Nicolina - Belvedere, cu suprafata de 180mp, amplasata pe o suprafata de teren de 300mp. Casa este constructie noua din 2008, are 5 camere spatioase, este alcatuita din Parter+Etaj+Mansarda. In plus, beneficiaza de finisaje de calitate si de garaj. Puteti achizitiona aceasta casa la pretul de 180 000 euro. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Ciprian Roman, la numarul de telefon 0740 04 22 33.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#3795", 
+            "Nr camere:": "5", 
+            "Suprafata:": "180,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Nicolina / Frumoasa / CUG Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "180.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Nicolina - Belvedere", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-pacurari-canta/3527": {
+        "descriere": "Agentia Imobiliara CASA ALBA va prezinta spre vanzare o casa eleganta si spatioasa, cu suprafata de 140mp utili, 160mp terase incluse, amplasata pe o suprafata de teren de 430mp proprietate si cale acces, in zona Popas Pacurari. Casa este alcatuita din Parter si Mansarda, are 2 grupuri sanitare si 4 camere spatioase si, in plus, beneficiaza de centrala termica Viessmann, tamplarie exterioara cu geam termopan, gresie, faianta, parchet, avand toate utilitatile: gaz, apa, curent electric, canalizare. Disponibila imediat, casa poate fi achizitionata la pretul de 85 000 euro. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan, la numarul 0745 788 993.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#3527", 
+            "Nr camere:": "4", 
+            "Suprafata:": "160,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Pacurari / Canta Iasi"
+        }, 
+        "dotari": {
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "85.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Popas Pacurari", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-pacurari-canta/4863": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa de vanzare din zona Popas Pacurari. Casa este dispusa pe parter si etaj, este constructie 2015, are suprafata de 130mp, 500mp teren. La parter se afla un dormitor cu suprafata de 14mp, living cu suprafata de 20mp, bucatarie de 12mp, baie, iar la etaj se afla trei dormitoare si o baie. Casa beneficiaza de toate utilitatile si este amenajata cu tamplarie cu geam termopan, centrala termica, gresie, faianta, parchet. Pretul solicitat este de 73.900 euro. www.casa-alba.ro, COD OFERTA 4863.", 
+        "detalii": {
+            "ID proprietate:": "#4863", 
+            "Nr camere:": "5", 
+            "Suprafata:": "130,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Pacurari / Canta Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Usa metalica:": "Da", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "73.900"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Popas Pacurari", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-valea-adanca-miroslava/4358": {
+        "descriere": "Agentia Imobiliara CASA ALBA va prezinta o vila moderna noua situata in zona capat Nicolina – Valea Adanca. Vila beneficiaza de 1180 mp de teren, vedere panoramica spre tot orasul Iasi, acces betonat pana la casa, toate utilitatile: gaz, apa, curent. Vila este compusa din parter si etaj mansardat: la parter se afla terasa la intrare de 14 mp acoperita, hol acces, living spatios, 2 dormitoare mari, 2 grupuri sanitare, ambele cu geam de aerisire, bucatarie spatioasa cu iesire la terasa acoperita 14 mp, iar la etaj se afla un hol, dormitor si baie. Toate amenajarile sunt noi si calitative: tamplarie exterioara si usi interioare din lemn stratificat, gresie si faianta Spania placi 60/60 cm, instalatie termica pe distribuitoare, parchet lemn triplustratificat de 14 mm, calorifere pe elementi din aluminiu, glafuri interioare si exterioare din granit, trotuarele si soclul vilei sunt pavate cu piatra naturala de cea mai buna calitate, cele 2 terase sunt acoperite si amenajate in lemn stil rustic elegant, intradosul casei este din lemn baituit, In plus, vila este locuibila imediat. Pentru mai multe detalii si oferte, contactati consultantul imobiliar, Emilian Tarcan, la numarul de telefon 0745 788 993 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4358.", 
+        "detalii": {
+            "ID proprietate:": "#4358", 
+            "Nr camere:": "3", 
+            "Suprafata:": "120,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Valea Adanca / Miroslava Iasi"
+        }, 
+        "dotari": {}, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "79.000"
+        }, 
+        "titlu": "Vila P+E de vanzare Iasi, Capat Nicolina - Valea Adanca", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-valea-adanca-miroslava/4359": {
+        "descriere": "Agentia Imobiliara CASA ALBA va prezinta o casa constructie noua din zona capat Nicolina – Valea Adanca, dispusa pe parter. Casa beneficiaza de 657 mp de teren si de toate utilitatile: gaz, apa, curent. Casa este compartimentata foarte bine si cuprinde: terasa la intrare de 14 mp acoperita, hol acces, living spatios, 2 dormitoare mari, 2 grupuri sanitare, ambele cu geam de aerisire, bucatarie mare cu iesire la terasa acoperita 14 mp. Toate amenajarile sunt noi si de calitate: tamplarie exterioara si usi interioare din lemn stratificat, gresie si faianta placi 60/40 cm, instalatie termica din polipropilena, parchet de calitate cu plinte din lemn, calorifere pe elementi din aluminiu, glafuri interioare si exterioare din granit, trotuarele si soclul vilei sunt pavate cu piatra naturala de cea mai buna calitate, cele 2 terase sunt acoperite si amenajate in lemn stil rustic elegant, intradosul casei este din lemn baituit, peste parter este turnata placa armata de 14 cm. podul este izolat si se poate folosi pt depozitare sau camera de locuit daca se doreste In plus, casa este locuibila imediat, iar terenul are 657mp, deschidere la strada 20 ml. Pentru mai multe detalii si oferte, contactati consultantul nostru imobiliar, Emilian Tarcan, la numarul de telefon 0745 788 993 sau accesati site-ul www.casa-alba.ro, COD OFERTA 4359.", 
+        "detalii": {
+            "Etaj:": "Parter", 
+            "ID proprietate:": "#4359", 
+            "Nr camere:": "3", 
+            "Suprafata:": "107,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Valea Adanca / Miroslava Iasi"
+        }, 
+        "dotari": {}, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "69.000"
+        }, 
+        "titlu": "Casa dispusa pe parter de vanzare Iasi, Nicolina - Valea Adanca", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-valea-lupului/5405": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa impecabila de vanzare, situata in Valea Lupului. Casa este constructie noua din 2012, din caramida, acoperita cu tabla, are suprafata de 125mp utili, suprafata de 600mp teren, este singura in curte. Casa are 4 camere (3 dormitoare, living) si dressing, 2 bai - ambele cu geam de aerisire, este dispusa pe Parter si Etaj si beneficiaza de toate utilitatile: gaz, apa, curent electric, canalizare. Pretul solicitat pentru aceasta casa este de 85.000 euro. Pentru mai multe detalii si oferte, accesati www.casa-alba.ro, COD OFERTA 5405.", 
+        "detalii": {
+            "ID proprietate:": "#5405", 
+            "Nr camere:": "4", 
+            "Suprafata teren:": "600,00 mp", 
+            "Suprafata:": "125,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Valea Lupului Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Utilitati:": [
+                "Apa", 
+                "Gaze", 
+                "Canal", 
+                "Electricitate"
+            ]
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "85.000"
+        }, 
+        "titlu": "Casa P+E de vanzare Iasi, Valea Lupului", 
+        "vandut": "Da"
+    }, 
+    "http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-viticultori/5065": {
+        "descriere": "Agentia Imobiliara Casa Alba va prezinta o casa la vanzare, situata in zona Viticultori - Aleea Sadoveanu. Casa este constructie 2014 din caramida, este alcatuita din Parter si Etaj, fiind amplasata pe o suprafata de teren de 435mp. La parter se afla un living, bucatarie cu iesire la terasa, camera centralei, baie, hol, dormitor, iar la etaj se afla trei dormitoare, doua bai si un hol. Suprafata construita a casei este de 222mp, dintre care utili 180mp. In ceea ce priveste utilitatile si dotarile, casa beneficiaza de gaz, apa, curent electric, fosa septica, centrala termica, tamplarie cu geam termopan, gresie, faianta, parchet, obiecte sanitare. Pretul solicitat pentru aceasta proprietate este de 130.000 euro. www.casa-alba.ro, COD OFERTA 5065.", 
+        "detalii": {
+            "ID proprietate:": "#5065", 
+            "Nr camere:": "5", 
+            "Suprafata:": "222,00 mp", 
+            "Tip oferta:": "Vanzare", 
+            "Tip proprietate:": "Case/Vile", 
+            "Zona:": "Viticultori Iasi"
+        }, 
+        "dotari": {
+            "An constructie:": "dupa 2000", 
+            "Centrala termica:": "Da", 
+            "Geam termopan:": "Da", 
+            "Tip apartament:": "Decomandat", 
+            "Tip imobil:": "Nou", 
+            "Utilitati:": []
+        }, 
+        "pret": {
+            "moneda": "EUR", 
+            "valoare": "130.000"
+        }, 
+        "titlu": "Casa de vanzare Iasi, Viticultori - Aleea Sadoveanu", 
+        "vandut": "Da"
+    }
+}
