@@ -17,6 +17,12 @@ class CrawlerTest(unittest.TestCase):
             processed_json = process_content('file:' + abspath(pjoin('tests', 'ap2camereTatarasi.html')).replace('\\', '/'))
             self.assertEqual(cmp(sample_json, processed_json), 0)
 
+    def test_process_content3(self):
+        with io.open(pjoin('tests', 'casavilabucium.json'), 'r', encoding=encoding) as fd:
+            sample_json = json.load(fd)
+            processed_json = process_content('file:' + abspath(pjoin('tests', 'casavilabucium.html')).replace('\\', '/'))
+            self.assertEqual(cmp(sample_json, processed_json), 0)
+
     def test_process_html_tags(self):
         content = '<td><div>text</div></td>'
         self.assertEqual(process_html_tags(content), 'text')
