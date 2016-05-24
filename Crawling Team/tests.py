@@ -6,7 +6,7 @@ import io
 class CrawlerTest(unittest.TestCase):
 
     def test_process_content(self):
-        content = process_content('http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/1644')
+        content = process_content('file:' + abspath(pjoin('tests', 'casavilabucium.html')).replace('\\', '/'))
         self.assertEqual(u'Proprietate deosebita de vanzare Iasi, Bucium', content['titlu'])
         self.assertEqual(u'590.000', content['pret']['valoare'])
         self.assertTrue(u'Apa' in content['dotari']['Utilitati:'])
@@ -16,6 +16,9 @@ class CrawlerTest(unittest.TestCase):
         content = '<td><div>text</div></td>'
         self.assertEqual(process_html_tags(content), 'text')
 
+    def test_process_html_tags(self):
+        content = '<td><tr><div><a href="google.com" >test &nbsp;</a></div><tr</td>'
+        self.assertEqual(process_html_tags(content), 'test')
 
     def test_get_page_content(self):
         with io.open(pjoin('tests', 'acf.html'), 'r', encoding=encoding) as fd:
