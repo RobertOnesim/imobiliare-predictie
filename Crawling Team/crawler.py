@@ -136,17 +136,6 @@ def main():
         'http://www.casa-alba.ro/imobile-de-vanzare-iasi?search=1&sort=1&ipp=25&q=&p_min=&p_max=&s=1&pt%5B%5D=1&z=',
         'apartamente_vandute.json')
 
-    # rez = process_content('http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-breazu/5907')
-    # print json.dumps(rez, indent=4, sort_keys=True)
-    # io.open('asdf.json', 'w', encoding=encoding).write(json.dumps(rez, indent=4,
-    #                                                               sort_keys=True, ensure_ascii=False))
-
 
 if __name__ == '__main__':
     main()
-    # content = process_content('http://www.casa-alba.ro/oferta/casa-vila-de-vanzare-iasi-bucium/1644')
-    # print content['dotari']
-    # with open('page_content.tmp', 'w') as fd:
-        # fd.write(get_page_content('http://profs.info.uaic.ro/~acf/java/'))
-
-    # print content
