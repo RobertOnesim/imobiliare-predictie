@@ -55,7 +55,7 @@ def process_list_page(link, filename):
         except Exception as e:
             print str(e)
     if os.path.isfile(os.path.join('data', filename)):
-        with io.open(filename, encoding=encoding) as f:
+        with io.open(os.path.join('data', filename), encoding=encoding) as f:
             all_data = json.load(f)
     else:
         all_data = {}
